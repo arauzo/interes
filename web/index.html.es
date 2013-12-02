@@ -9,6 +9,6 @@ body {
 }
 </style>
 <body>
-<p> <strong>Prueba...</strong> (cambiar por la p&aacute;gina de la web)</p>
+<p> <a href="http://www.avaaz.org/es/petition/Bancos_y_legisladores_Usen_la_formula_correcta_en_las_hipotecas/"> Petici&oacute;n </a> </p>
 </body>
 </html>
