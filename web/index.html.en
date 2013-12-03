@@ -5,10 +5,11 @@ body,td,th {
 	color: #FFF;
 }
 body {
-	background-color: #603;
+	background-color: #A47;
 }
 </style>
 <body>
 <p> <a href="http://www.avaaz.org/en/petition/Bankers_and_lawmakers_Use_the_correct_formula_in_mortgages/"> Petition </a> </p>
+<p> <a href="http://calculador.ax5.org/"> Mortgage calculator </a> </p>
 </body>
 </html>
