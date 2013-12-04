@@ -1,0 +1,73 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+
+
+body {
+  height:100%;
+  color: #5a5a5a;
+  background-color:#FFF;
+}
+
+h1{
+	font-family: 'Titan One', cursive;
+}
+
+section{
+	min-height:800px;
+	padding:170px 20px 20px 20px;
+	width:100%;
+	margin:0;
+	overflow:hidden;
+}
+
+#inicio{
+  background:url(../img/fondo.jpg);
+  background-position: bottom right;
+  background-repeat:no-repeat;
+  background-color:#2bc600;
+  color:#e0ffd8;
+}
+
+#faq{
+  background-color:#f5f5f5;
+}
+
+.navbar-brand:link, .navbar-brand:visited{
+	color: #26c400;
+}
+
+.navbar-brand:hover{
+	color: #2ff400;
+}
+
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+.navbar-wrapper {
+  position: relative;
+  z-index: 15;
+}
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (max-width: 767px) {
+
+
+}
+
+@media (min-width: 768px) {
+	section{
+		padding-top:70px;
+	}	
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
