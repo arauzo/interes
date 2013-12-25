@@ -51,9 +51,9 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-                <li><a href="#inicio"><span class="glyphicon glyphicon-home"></span> Inicio</a></li>
-                <li><a href="#calculo"><span class="glyphicon glyphicon-usd"></span> Cálculo</a></li>
-                <li><a href="#faq"><span class="glyphicon glyphicon-question-sign"></span> Preguntas frecuentes</a></li>
+                <li><a href="#menuinicio"><span class="glyphicon glyphicon-home"></span> Inicio</a></li>
+                <li><a href="#menucalculo"><span class="glyphicon glyphicon-usd"></span> Cálculo</a></li>
+                <li><a href="#menufaq"><span class="glyphicon glyphicon-question-sign"></span> Preguntas frecuentes</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -64,7 +64,7 @@
 
 
 
-<section id="inicio">
+<section id="menuinicio">
  <div class="logoblanco"></div>    
     <div class="container">
 
@@ -82,7 +82,7 @@
 <div style="height:30px"></div>
 <p>En la actualidad la mayoría de los bancos calculan las mensualidades de los préstamos e hipotecas de forma inexacta, utilizando la fórmula tradicional. Esta web pretende informar de que existe una forma correcta de calcular el interés, que no es la que se aplica habitualmente.</p>
 
-<center><h2>¿Quieres COLABORAR?</h2><h2> FIRMA ESTA PETICIÓN</h2></center>
+<center><h2>¿Quieres COLABORAR?</h2></center>
 
     <center><a class="btn btn-default" target="_blank" href="http://www.avaaz.org/es/petition/Bancos_y_legisladores_Usen_la_formula_correcta_en_las_hipotecas/"><strong>Firma la petición</strong></a></center>
 <br> <br> 
@@ -115,22 +115,130 @@
       
     </section>
 
-<section id="calculo">
+<section id="menucalculo">
     <div class="container">
-  <div class="col-sm-6">   
+  <div class="col-md-6">   
   </div>    
     
     
-  <div class="col-sm-6">   
-    <h1>CALCÚLALO tú mismo</h1>
-    <br><br>
-    <a class="btn btn-success" href="http://calculador.ax5.org/">Calculadora web</a>
+  <div class="col-md-6">   
+    <center><h1>CALCÚLALO tú mismo</h1></center>
+    <br>
+    <p>Para calcular la cuota de tu hipoteca o préstamo junto con su tabla de amortización usando la fórmula exacta y la aproximada puedes utilizar la siguiente calculadora desde el navegador web: </p>
+    
+    <center><a class="btn btn-success" href="http://calculador.ax5.org/" target="_blank">Calculadora web</a></center>
+    <br>
+
+     <p> O, si lo prefieres, puedes descargar las aplicaciones móviles para tenerlas siempre a mano:</p>
+   
+    
+    
+<div class="row hidden-xs hidden-print" style="text-align:center">
+	<div class="col-sm-4 ">
+    <a href="https://play.google.com/store/apps/details?id=com.arjonasoftware.mortgagecalculator" target="_blank"><div class="thumbnail">
+     <img src="img/android.png" alt="App Android">
+      <div class="caption">
+        <h4>Android</h4>
+      </div>
+    </div></a>
+    </div>
+	<div class="col-sm-4">
+    <a href="http://www.windowsphone.com/es-es/store/app/real-mortgage-calculator/cb975365-9396-42f8-b6f2-1e8d7e870cca" target="_blank"><div class="thumbnail">
+   <img src="img/wphone.png" alt="App Windows Phone">
+      <div class="caption">
+        <h4>Windows Phone</h4>
+      </div>
+    </div></a>
+    </div>
+    
+	<div class="col-sm-4">
+    <div class="thumbnail">
+      <img class="tooltipios" data-toggle="tooltip" title="" data-original-title="No disponible ¿Te animas a hacerla?" data-placement="top" src="img/ios.png" alt="App iOS">
+      <div class="caption">
+        <h4>iOS</h4>
+      </div>
+    </div>
+    </div>
+</div>
+
+<div class="row visible-xs ">
+    <ul class="list-group">
+      <li class="list-group-item">
+        <a href="https://play.google.com/store/apps/details?id=com.arjonasoftware.mortgagecalculator" target="_blank"><span class="badge pull-right">Descargar</span></a>
+        Android
+      </li>
+      
+      <li class="list-group-item">
+        <a href="http://www.windowsphone.com/es-es/store/app/real-mortgage-calculator/cb975365-9396-42f8-b6f2-1e8d7e870cca" target="_blank"><span class="badge pull-right">Descargar</span></a>
+        Windows Phone
+      </li>
+      
+      <li class="list-group-item">
+        <span class="badge pull-right">No disponible</span>
+        iOS
+      </li>
+    </ul>
+</div>    
+    <br>
+   <p>También puedes descargar una hoja de cálculo donde se presentan los cálculos y un gáfico comparativo en el que puede apreciarse la diferencia entre aplicar una u otra fórmula:</p>
+    
+<div class="row hidden-xs hidden-print" style="text-align:center">
+	<div class="col-sm-4 ">
+    <a href="descargas/hipotecas.xls" target="_blank"><div class="thumbnail">
+      <img src="img/Excel.png" alt="Documento excel">
+      <div class="caption">
+        <h4>XLS</h4>
+        <p>Compatible con Microsoft Excel</p>
+      </div>
+    </div></a>
+    </div>
+	<div class="col-sm-4">
+    <a href="descargas/hipotecas.ods" target="_blank"><div class="thumbnail">
+    <img src="img/libreoffice.png" alt="Documento ODS">
+      <div class="caption">
+        <h4>ODS</h4>
+        <p>Compatible con OpenOffice</p>
+      </div>
+    </div></a>
+    </div>
+    
+	<div class="col-sm-4">
+    <a href="https://docs.google.com/spreadsheet/ccc?key=0AuyRIZwM9h4vdF9iSXdyLVBFSkpDX2p0bFlGbkpoaGc&usp=sharing" target="_blank"><div class="thumbnail">
+    <img src="img/drive.png" alt="Ver en Google Drive">
+      <div class="caption">
+        <h4>Google Drive</h4>
+        <p>Ver online</p>
+      </div>
+    </div></a>
+    </div>
+</div>
+
+<div class="row visible-xs ">
+    <ul class="list-group">
+      <li class="list-group-item">
+        <a href="descargas/hipotecas.xls" target="_blank"><span class="badge pull-right">Descargar</span></a>
+        XLS (Microsoft Excel)
+      </li>
+      
+      <li class="list-group-item">
+        <a href="descargas/hipotecas.ods" target="_blank"><span class="badge pull-right">Descargar</span></a>
+        ODS (OpenOffice)
+      </li>
+      
+      <li class="list-group-item">
+        <a href="https://docs.google.com/spreadsheet/ccc?key=0AuyRIZwM9h4vdF9iSXdyLVBFSkpDX2p0bFlGbkpoaGc&usp=sharing" target="_blank"><span class="badge pull-right">Descargar</span></a>
+        Google Drive (Online)
+      </li>
+    </ul>
+</div>
+
+    
    </div>
     </div>
 </section>
 
 
-<section id="faq">
+<section id="menufaq">
     <div class="container">
     
     <h1>PREGUNTAS frecuentes</h1>
@@ -195,27 +303,76 @@
       </div>
     </div>
   </div>
+ <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseCinco">
+          ¿Para utilizar las aplicaciones debo firmar la petición?
+        </a>
+      </h4>
+    </div>
+    <div id="collapseCinco" class="panel-collapse collapse in">
+      <div class="panel-body">
+En absoluto, se pueden utilizar las aplicaciones sin necesidad de firmar la petición. No obstante, se recomienda firmarla para hacérsela llegar a los legisladores cuando se alcancen 1000 firmas.
+      </div>
+    </div>
+  </div>
+  
+<div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
+           ¿Cómo puedo calcular mi hipoteca con un dispositivo que no sea Android o Windows Phone?
+        </a>
+      </h4>
+    </div>
+    <div id="collapse6" class="panel-collapse collapse in">
+      <div class="panel-body">
+En estos casos se recomienda utilizar la aplicación web desde el navegador del dispositivo.
+      </div>
+    </div>
+  </div>  
+  
+<div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">
+          ¿Por qué cuando introduzco los datos en la aplicación web no me aparece ningún resultado?
+
+        </a>
+      </h4>
+    </div>
+    <div id="collapse7" class="panel-collapse collapse in">
+      <div class="panel-body">
+Tiene que activar JavaScript en su navegador. Para ello,  compruebe en las opciones de su navegador que este lo permite y actívelo.
+      </div>
+    </div>
+  </div>  
+  
+<div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">
+          ¿Es necesario estar registrado en la web de avaaz.org para poder firmar la petición?
+
+        </a>
+      </h4>
+    </div>
+    <div id="collapse8" class="panel-collapse collapse in">
+      <div class="panel-body">
+No, sólo es necesario ingresar un correo electrónico válido.
+      </div>
+    </div>
+  </div>  
 </div>
-    
-    
-    
-    
+  
     </div>
 </section>
 
 
-
-   
-        
-        
-
 </div>
-	
-	
-	
       <!-- FOOTER -->
 <div id="footer">
-
 
 </div>
 
@@ -227,11 +384,32 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/transition.js"></script>
     <script src="js/dropdown.js"></script>
-
+    <script src="js/tooltip.js"></script>
+    
 	<script>
 		$( document ).ready(function() {
 			$('.collapse').collapse();
+			$('.tooltipios').tooltip();
 		});
+	</script>
+	
+	<script>
+	$(function(){
+
+     $('a[href*=#menu]').click(function() {
+
+     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+         && location.hostname == this.hostname) {
+             var $target = $(this.hash);
+             $target = $target.length && $target || $('[name=' + this.hash.slice(1) +']');
+             if ($target.length) {
+                 var targetOffset = $target.offset().top;
+                 $('html,body').animate({scrollTop: targetOffset}, 1000);
+                 return false;
+             }
+       		}
+   		});
+	});
 	</script>
 
 	<script>

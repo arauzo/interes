@@ -23,7 +23,7 @@ section{
 	overflow:hidden;
 }
 
-#inicio{
+#menuinicio{
   background:url(../img/fondo.jpg);
   background-position: bottom right;
   background-repeat:no-repeat;
@@ -31,12 +31,18 @@ section{
   color:#e0ffd8;
 }
 
-#inicio p{
+#menuinicio p{
 	color: #FFF;
 }
 
-#faq{
+#menufaq{
   background-color:#f5f5f5;
+}
+
+#menucalculo{
+  background:url(../img/logogris.png);
+  background-position: bottom right;
+  background-repeat:no-repeat;
 }
 
 .navbar-brand:link, .navbar-brand:visited{
