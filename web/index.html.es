@@ -19,7 +19,7 @@
     <![endif]-->
 
     <!-- Custom styles for this template -->
-	<link href='http://fonts.googleapis.com/css?family=Titan+One' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Roboto|Roboto+Slab:700' rel='stylesheet' type='text/css'>  		
     <link href="css/estilo.css" rel="stylesheet">
   </head>
 <!-- NAVBAR
@@ -82,9 +82,9 @@
 <div style="height:30px"></div>
 <p>En la actualidad la mayoría de los bancos calculan las mensualidades de los préstamos e hipotecas de forma inexacta, utilizando la fórmula tradicional. Esta web pretende informar de que existe una forma correcta de calcular el interés, que no es la que se aplica habitualmente.</p>
 
-<center><h2>¿Quieres COLABORAR?</h2></center>
+<center><h2>¿Quieres colaborar?</h2></center>
 
-    <center><a class="btn btn-default" target="_blank" href="http://www.avaaz.org/es/petition/Bancos_y_legisladores_Usen_la_formula_correcta_en_las_hipotecas/"><strong>Firma la petición</strong></a></center>
+    <center><a class="btn btn-default botonpeticion" target="_blank" href="http://www.avaaz.org/es/petition/Bancos_y_legisladores_Usen_la_formula_correcta_en_las_hipotecas/"><strong>Ver petición</strong></a></center>
 <br> <br> 
 
 <div class="col-sm-6"><center>
@@ -117,13 +117,11 @@
 
 <section id="menucalculo">
     <div class="container">
-  <div class="col-md-6">   
-  </div>    
     
     
   <div class="col-md-6">   
-    <center><h1>CALCÚLALO tú mismo</h1></center>
-    <br>
+    <center><h1>Calcúlalo tú mismo</h1></center>
+<br>
     <p>Para calcular la cuota de tu hipoteca o préstamo junto con su tabla de amortización usando la fórmula exacta y la aproximada puedes utilizar la siguiente calculadora desde el navegador web: </p>
     
     <center><a class="btn btn-success" href="http://calculador.ax5.org/" target="_blank">Calculadora web</a></center>
@@ -179,8 +177,13 @@
       </li>
     </ul>
 </div>    
-    <br>
-   <p>También puedes descargar una hoja de cálculo donde se presentan los cálculos y un gáfico comparativo en el que puede apreciarse la diferencia entre aplicar una u otra fórmula:</p>
+  </div>    
+    
+    
+  <div class="col-md-6">
+   <center><h1>Hoja de cálculo</h1></center>
+   <br>
+   <p>También puedes descargar una hoja de cálculo donde se presentan los cálculos y un gráfico comparativo en el que puede apreciarse la diferencia entre aplicar una u otra fórmula:</p>
     
 <div class="row hidden-xs hidden-print" style="text-align:center">
 	<div class="col-sm-4 ">
@@ -241,7 +244,7 @@
 <section id="menufaq">
     <div class="container">
     
-    <h1>PREGUNTAS frecuentes</h1>
+    <h1>Preguntas frecuentes</h1>
     
     
   <div class="panel-group" id="accordion">
@@ -256,6 +259,9 @@
     <div id="collapseOne" class="panel-collapse collapse">
       <div class="panel-body">
         Es la fórmula que actualmente utilizan la mayoría de los bancos para calcular la cuota de la hipoteca. Es una mezcla entre interés simple y compuesto que sesga el resultado a favor del banco.
+        <br><br>
+        <center><img src="img/aproximada.png" alt="Fórmula aproximada"></center>
+
       </div>
     </div>
   </div>
@@ -270,6 +276,8 @@
     <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
         Aparte de crear confusión, la fórmula aproximada hará que cuando los tipos de interés suban, estos crezcan todavía más para los hipotecados (EURIBOR + diferencial + error que crece más cuanto mayor sea el interés).
+<br><br>
+<center>Diferencia entre la aproximación y la fórmula correcta: <br><img src="img/grafica.png" alt="Gráfica interés"></center>
 
       </div>
     </div>
@@ -285,6 +293,9 @@
     <div id="collapseThree" class="panel-collapse collapse">
       <div class="panel-body">
        Es la fórmula realmente correcta, la que deberían de utilizar los bancos para calcular la cuota de la hipoteca. Es la fórmula original del interés compuesto.
+       
+        <br><br>
+        <center><img src="img/exacta.png" alt="Fórmula aproximada"></center>
       </div>
     </div>
   </div>
@@ -373,7 +384,60 @@ No, sólo es necesario ingresar un correo electrónico válido.
 </div>
       <!-- FOOTER -->
 <div id="footer">
+<div class="container">
 
+
+<h3>Autores</h3>
+<div class="col-lg-2 col-md-4 col-sm-6">
+<h4>Web</h4>
+<ul>
+<li>Paco Aliaga</li>
+<li>Isabel Aliaga</li>
+<li>Jesús Collado</li>
+</ul>
+</div>
+
+<div class="col-lg-2 col-md-4 col-sm-6">
+<h4>Calculadora web</h4>
+<ul>
+<li>Pablo Candela</li>
+<li>José Luis Montes</li>
+<li>Jesús Rodríguez-Solís</li>
+<li>Juan Carlos Sánchez</li>
+</ul>
+</div>
+<div class="col-lg-2 col-md-4 col-sm-6">
+<h4>App Android</h4>
+<ul>
+<li>Paco Arjona</li>
+<li>Cristóbal Castro</li>
+<li>José Antonio Espino</li>
+<li>Antonio Osuna</li>
+</ul>
+</div>
+<div class="col-lg-2 col-md-4 col-sm-6">
+<h4>A. Windows Phone</h4>
+<ul>
+<li>Francisco M. Castro</li>
+<li>Fernando Cobo</li>
+<li>Manuel Dorado</li>
+<li>José Manuel Herruzo</li>
+</ul>
+</div>
+<div class="col-lg-2 col-md-4 col-sm-6">
+<h4>Promotor de la idea</h4>
+<ul><li>Antonio Araúzo Azofra</li></ul>
+
+<h4>Colaborador</h4>
+<ul><li>Rubén Tinajero</li></ul>
+</div>
+
+<div class="col-lg-2 visible-lg">
+<span class="glyphicon glyphicon-user iconouser"></span>
+</div>
+
+
+</div>
 </div>
 
 
