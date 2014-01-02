@@ -92,7 +92,7 @@
 \setbeamertemplate{navigation symbols}{}
 
 \title{La cuota de mi hipoteca está mal calculada}  
-\author{Antonio Araúzo Azofra}
+\author{ \raisebox{-0.8ex}{\includegraphics[height=3ex]{by-sa.pdf}} \hspace{2cm} Antonio Araúzo Azofra}
 \date{\today} 
 
 {
@@ -307,12 +307,12 @@ $C_\text{ Final} = C_\text{ Inicial} \cdot (1+i)^t$
   }
 }
 \PutAt<+->{(4cm,1.5cm)}{
-  \rotatebox{20}{
+  \rotatebox{15}{
     \NormalBox[font=\LARGE]{\bf Rentabilidad bonos}
   }
 }
-\PutAt<+->{(7cm,2cm)}{
-  \rotatebox{15}{
+\PutAt<+->{(7.5cm,2cm)}{
+  \rotatebox{10}{
     \NormalBox[font=\LARGE]{\bf Prima de riesgo}
   }
 }
@@ -320,14 +320,133 @@ $C_\text{ Final} = C_\text{ Inicial} \cdot (1+i)^t$
 
 
 
+\frame{\frametitle{¿Qué pasa con los préstamos?}}
+%26
 \frame{\frametitle{¿Qué pasa con los préstamos?}
-
 \bigskip
-\ShowPutAtGrid
 {\renewcommand{\arraystretch}{1.018}
 \begin{tabular}{rSSSS}
 \hline
-{\it Pago} & {\it Deuda} & {\it Interés} & {\it Amortización}  & {\it Cuota} \\ \hline
+{\it Pago} & {\it Deuda} & {\it Interés} & {\it Amortización}  & {\it Cuota}\hspace{0.5cm} \\ \hline
+0 & 1000.00 &       & & \\ \hline
+1 &         & 50.00 & & \\ \hline
+2 & & & & \\ \hline
+3 & & & & \\ \hline
+4 & & & & \\ \hline
+5 & & & & \\ \hline
+6 & & & & \\ \hline
+7 & & & & \\ \hline
+8 & & & & \\ \hline
+9 & & & & \\ \hline
+10& & & & \\ \hline
+\end{tabular}
+}
+\begin{textblock*}{7cm}(1cm,2cm)
+\begin{tikzpicture}
+\draw[opacity=0] (0cm,0cm) -- (7cm,-6cm); 
+\draw[->,blue,line width=1pt] (2.75cm,-0.75cm) -- node[above,pos=0.9] {\small 5\%} (4cm,-1cm);
+\end{tikzpicture}
+\end{textblock*}
+}
+%27
+\frame{\frametitle{¿Qué pasa con los préstamos?}
+\bigskip
+{\renewcommand{\arraystretch}{1.018}
+\begin{tabular}{rSSSS}
+\hline
+{\it Pago} & {\it Deuda} & {\it Interés} & {\it Amortización}  & {\it Cuota}\hspace{0.5cm} \\ \hline
+0 & 1000.00 &       & & \\ \hline
+1 &         & 50.00 &  79.50 & 129.50 \\ \hline
+2 & & & & \\ \hline
+3 & & & & \\ \hline
+4 & & & & \\ \hline
+5 & & & & \\ \hline
+6 & & & & \\ \hline
+7 & & & & \\ \hline
+8 & & & & \\ \hline
+9 & & & & \\ \hline
+10& & & & \\ \hline
+\end{tabular}
+}
+\begin{textblock*}{7cm}(1cm,2cm)
+\begin{tikzpicture}
+\draw[opacity=0] (0cm,0cm) -- (7cm,-6cm); 
+\draw[->,blue,line width=1pt] (2.75cm,-0.75cm) -- node[above,pos=0.9] {\small 5\%} (4cm,-1cm);
+\draw[blue, inner sep=0pt, anchor=center] (5cm, -1.28cm) node {\small{\textbf{+}}};
+\draw[blue, inner sep=0pt, anchor=center] (7cm, -1.28cm) node {\small{\textbf{=}}};
+\end{tikzpicture}
+\end{textblock*}
+}
+% 28
+\frame{\frametitle{¿Qué pasa con los préstamos?}
+\bigskip
+{\renewcommand{\arraystretch}{1.018}
+\begin{tabular}{rSSSS}
+\hline
+{\it Pago} & {\it Deuda} & {\it Interés} & {\it Amortización}  & {\it Cuota}\hspace{0.5cm} \\ \hline
+0 & 1000.00 &       & & \\ \hline
+1 &  920.50 & 50.00 &  79.50 & 129.50 \\ \hline
+2 & & & & \\ \hline
+3 & & & & \\ \hline
+4 & & & & \\ \hline
+5 & & & & \\ \hline
+6 & & & & \\ \hline
+7 & & & & \\ \hline
+8 & & & & \\ \hline
+9 & & & & \\ \hline
+10& & & & \\ \hline
+\end{tabular}
+}
+\begin{textblock*}{7cm}(1cm,2cm)
+\begin{tikzpicture}
+\draw[opacity=0] (0cm,0cm) -- (7cm,-6cm); 
+\draw[->,blue,line width=1pt] (2.75cm,-0.75cm) -- node[above,pos=0.9] {\small 5\%} (4cm,-1cm);
+\draw[blue, inner sep=0pt, anchor=center] (5cm, -1.28cm) node {\small{\textbf{+}}};
+\draw[blue, inner sep=0pt, anchor=center] (7cm, -1.28cm) node {\small{\textbf{=}}};
+\draw[->,blue,line width=1pt] (5.6cm,-1.4cm) -- (5.5cm,-1.5cm) -- (3cm,-1.5cm) -- (2.75cm,-1.25cm);
+\end{tikzpicture}
+\end{textblock*}
+}
+% 29
+\frame{\frametitle{¿Qué pasa con los préstamos?}
+\bigskip
+{\renewcommand{\arraystretch}{1.018}
+\begin{tabular}{rSSSS}
+\hline
+{\it Pago} & {\it Deuda} & {\it Interés} & {\it Amortización}  & {\it Cuota}\hspace{0.5cm} \\ \hline
+0 & 1000.00 &       & & \\ \hline
+1 &  920.50 & 50.00 &  79.50 & 129.50 \\ \hline
+2 &         & 46.02 &  83.48 & 129.50 \\ \hline
+3 & & & & \\ \hline
+4 & & & & \\ \hline
+5 & & & & \\ \hline
+6 & & & & \\ \hline
+7 & & & & \\ \hline
+8 & & & & \\ \hline
+9 & & & & \\ \hline
+10& & & & \\ \hline
+\end{tabular}
+}
+\begin{textblock*}{7cm}(1cm,2cm)
+\begin{tikzpicture}
+\draw[opacity=0] (0cm,0cm) -- (7cm,-6cm); 
+\draw[->,blue,line width=1pt] (2.75cm,-0.75cm) -- node[above,pos=0.9] {\small 5\%} (4cm,-1cm);
+\draw[blue, inner sep=0pt, anchor=center] (5cm, -1.28cm) node {\small{\textbf{+}}};
+\draw[blue, inner sep=0pt, anchor=center] (7cm, -1.28cm) node {\small{\textbf{=}}};
+\draw[->,blue,line width=1pt] (5.6cm,-1.4cm) -- (5.5cm,-1.5cm) -- (3cm,-1.5cm) -- (2.75cm,-1.25cm);
+\draw[blue, inner sep=0pt, anchor=center] (5cm, -1.78cm) node {\small{\textbf{+}}};
+\draw[blue, inner sep=0pt, anchor=center] (7cm, -1.78cm) node {\small{\textbf{=}}};
+\draw[->,blue,line width=1pt] (2.25cm,-1.5cm) -- node[below,pos=0.15] {\small 5\%} (3.5cm,-1.75cm);
+\end{tikzpicture}
+\end{textblock*}
+}
+%30
+\frame{\frametitle{¿Qué pasa con los préstamos?}
+\bigskip
+{\renewcommand{\arraystretch}{1.018}
+\begin{tabular}{rSSSS}
+\hline
+{\it Pago} & {\it Deuda} & {\it Interés} & {\it Amortización}  & {\it Cuota}\hspace{0.5cm} \\ \hline
 0 & 1000.00 & & & \\ \hline
 1 & 920.50 & 50.00 &  79.50 & 129.50\\ \hline
 2 & 837.02 & 46.02 &  83.48 & 129.50\\ \hline
@@ -344,11 +463,16 @@ $C_\text{ Final} = C_\text{ Inicial} \cdot (1+i)^t$
 \begin{textblock*}{7cm}(1cm,2cm)
 \begin{tikzpicture}
 \draw[opacity=0] (0cm,0cm) -- (7cm,-6cm); 
-\draw[->,blue,line width=1pt] (2.6cm,-0.75cm) -- node[above] {5\%} (3.8cm,-1cm);
-\draw[->,blue,line width=1pt] (5.25cm,-1.25cm) -- (5cm,-1.5cm) -- (3cm,-1.5cm) -- (2.75cm,-1.25cm);
+\draw[->,blue,line width=1pt] (2.75cm,-0.75cm) -- node[above,pos=0.9] {\small 5\%} (4cm,-1cm);
+\draw[blue, inner sep=0pt, anchor=center] (5cm, -1.28cm) node {\small{\textbf{+}}};
+\draw[blue, inner sep=0pt, anchor=center] (7cm, -1.28cm) node {\small{\textbf{=}}};
+\draw[->,blue,line width=1pt] (5.6cm,-1.4cm) -- (5.5cm,-1.5cm) -- (3cm,-1.5cm) -- (2.75cm,-1.25cm);
+\draw[blue, inner sep=0pt, anchor=center] (5cm, -1.78cm) node {\small{\textbf{+}}};
+\draw[blue, inner sep=0pt, anchor=center] (7cm, -1.78cm) node {\small{\textbf{=}}};
 \end{tikzpicture}
 \end{textblock*}
 }
+
 
 
 
@@ -356,11 +480,16 @@ $C_\text{ Final} = C_\text{ Inicial} \cdot (1+i)^t$
 \begin{enumerate}
 \item Es más sencilla
     \begin{itemize}
-    \item Ok, en el pasado pero, hoy en día, el teléfono que llevamos encima puede hacer miles de estos cálculos en un segundo. 
+    \item En el pasado, vale. Hoy en día, hasta el teléfono que llevamos encima puede hacer miles de estos cálculos en un segundo.
+    \item Aplicaciones para móvil en nuestra web: \href{http://interes.ax5.org/}{interes.ax5.org}
     \end{itemize}
 \item Tradición
     \begin{itemize}
-    \item Las tradiciones están bien para las fiestas pero ¿usar la cuenta la vieja por tradición?
+    \item Las tradiciones están bien para las fiestas pero ¿usar una aproximación tipo ``cuenta la vieja'' por tradición?
+    \end{itemize}
+\item Por ignorancia
+    \begin{itemize}
+    \item No, en los bancos hay gente muy preparada haciendo cálculos mucho más complejos que estos.
     \end{itemize}
 \item Más beneficio para el banco
     \begin{itemize}
@@ -371,7 +500,7 @@ $C_\text{ Final} = C_\text{ Inicial} \cdot (1+i)^t$
 
 
 
-\frame{\frametitle{¿Por qué es importante que se use la exacta}
+\frame{\frametitle{¿Por qué es importante que se use la exacta?}
 \begin{itemize}
     \item Permitiria hipotecas TAE / Nobasta con que se publique el TAE
     \pause
@@ -382,18 +511,13 @@ $C_\text{ Final} = C_\text{ Inicial} \cdot (1+i)^t$
 }
 
 
-\frame{\frametitle{Sistemas de amortización de préstamos}
+\frame{\frametitle{-Eliminar-}
 \begin{itemize}
-    \item Americano (sólo se pagan intereses)
-    \pause
-    \item Alemán (amortización fija)
-    \pause
     \item Francés (cuota fija) \\
     \begin{equation} 
     a = C \frac{i}{1-\frac{1}{(1+i)^n}}
     \end{equation}
     donde $a$ es la cuota fija o anualidad, $C$ es el capital, $i$ el tipo de interés anual y $n$ el número de años
-    \pause
     \item ¿Cómo debe calcularse una mensualidad?
     \item $i = (1+i_t)^{\frac{1}{n}} - 1$
     

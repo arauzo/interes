@@ -52,22 +52,27 @@ Guión para "La cuota de mi hipoteca está mal calculada"
 
 25) Ahora, veamos qué pasa con los préstamos. 
 
-26) La idea es sencilla. Uno debe pagar intereses por el dinero que debe del periodo anterior. En este ejemplo, en el pago 1 se incluyen 50€ que corresponden al 5% de los 1000€ prestados.
+26) La idea es sencilla: uno debe pagar intereses por el dinero que debe del periodo anterior. En este ejemplo, en el pago 1 se incluyen 50€ que corresponden al 5% de los 1000€ prestados.
 
--> Columna Pago / Cuota
+27) Además del interés, la cuota también incluye la devolución de parte de la deuda (la amortización). 
 
-26) Además del interés, la cuota también incluye la devolución de parte de la deuda (la amortización). 
+28) La deuda va disminuyendo y, 
 
-27) La deuda va disminuyendo y, 
+29) por tanto, también disminuyen los intereses en cada pago.
 
-28) por tanto, también disminuyen los intereses en cada pago.
+30) Así continúa hasta que, en el último pago, se devuelve toda la deuda. Lo único que falta es saber cómo calcular la cuota para que todo cuadre y, al final, la deuda sea cero. 
 
-29) Así continúa hasta que, en el último pago, se devuelve toda la deuda. Lo único que falta es saber cómo calcular la cuota para que al final la deuda sea cero. 
-
-30) Para ello se aplica la formula del método francés. Podéis ver en nuestra web cómo se llega a ella.  
+31) Para ello se aplica la formula del método francés. Podéis ver en nuestra web cómo se llega a ella.  
 
 Aproximando con el interés simple
 
 Matemáticamente la aproximación es una aberración porque mientras que para la formula general se usa el interés compuesto para la mensualidad se usa el simple.
 
 ) Por qué usan la formula aprox.
+
+
+
+
+
+
+

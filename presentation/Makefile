@@ -17,7 +17,8 @@ FUENTES =
 IMAGENES = \
 	IntSimple1.pdf IntSimple2.pdf IntSimple3.pdf IntSimple4.pdf IntSimple5.pdf IntSimple6.pdf \
 	IntSimple7.pdf IntSimple8.pdf IntSimple9.pdf IntSimple.pdf \
-	IntCompuesto1.pdf IntCompuesto.pdf IntCompuesto2.pdf
+	IntCompuesto1.pdf IntCompuesto.pdf IntCompuesto2.pdf \
+	by-sa.pdf
 
 all :	$(BASENAME).pdf 
 #$(BASENAME)en.pdf
