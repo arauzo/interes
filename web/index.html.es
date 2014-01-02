@@ -277,7 +277,7 @@
       <div class="panel-body">
         Aparte de crear confusión, la fórmula aproximada hará que cuando los tipos de interés suban, estos crezcan todavía más para los hipotecados (EURIBOR + diferencial + error que crece más cuanto mayor sea el interés).
 <br><br>
-<center>Diferencia entre la aproximación y la fórmula correcta: <br><img src="img/grafica.png" alt="Gráfica interés"></center>
+<center>Diferencia entre la aproximación y la fórmula correcta: <br><img class="img-responsive" style="max-width:625px; width:100%;" src="img/grafica.png" alt="Gráfica interés"></center>
 
       </div>
     </div>
