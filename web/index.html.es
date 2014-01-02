@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="¿Tu banco calcula correctamente tu hipoteca? Descubre qué fallo se comete habitualmente">
     <link rel="shortcut icon"  type="image/png" href="img/favicon.png">
 
     <title>Interés en hipotecas</title>
@@ -124,7 +123,7 @@
 <br>
     <p>Para calcular la cuota de tu hipoteca o préstamo junto con su tabla de amortización usando la fórmula exacta y la aproximada puedes utilizar la siguiente calculadora desde el navegador web: </p>
     
-    <center><a class="btn btn-success" href="http://calculador.ax5.org/" target="_blank">Calculadora web</a></center>
+    <center><a class="btn btn-success" href="calculoCuota.html.es">Calculadora web</a></center>
     <br>
 
      <p> O, si lo prefieres, puedes descargar las aplicaciones móviles para tenerlas siempre a mano:</p>

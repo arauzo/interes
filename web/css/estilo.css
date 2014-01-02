@@ -86,6 +86,7 @@ section{
 	color:#21c300;
 }
            
+.tablaCentrada table{margin:0 auto;text-align:center}
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -100,7 +101,9 @@ section{
 -------------------------------------------------- */
 
 @media (max-width: 767px) {
-
+	.seccion_calculadora{
+		padding-top:70px;
+	}
 
 }
 

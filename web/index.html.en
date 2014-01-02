@@ -3,8 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="¿Tu banco calcula correctamente tu hipoteca? Descubre qué fallo se comete habitualmente">
     <link rel="shortcut icon"  type="image/png" href="img/favicon.png">
 
     <title>Interés en hipotecas</title>
@@ -43,7 +42,7 @@
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Menú</span>
+            <span class="sr-only">Menu</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -51,9 +50,9 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-                <li><a href="#menuinicio"><span class="glyphicon glyphicon-home"></span> Inicio</a></li>
+                <li><a href="#menuinicio"><span class="glyphicon glyphicon-home"></span> Home</a></li>
                 <li><a href="#menucalculo"><span class="glyphicon glyphicon-usd"></span> Cálculo</a></li>
-                <li><a href="#menufaq"><span class="glyphicon glyphicon-question-sign"></span> Preguntas frecuentes</a></li>
+                <li><a href="#menufaq"><span class="glyphicon glyphicon-question-sign"></span> FAQ</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -124,7 +123,7 @@
 <br>
     <p>Para calcular la cuota de tu hipoteca o préstamo junto con su tabla de amortización usando la fórmula exacta y la aproximada puedes utilizar la siguiente calculadora desde el navegador web: </p>
     
-    <center><a class="btn btn-success" href="http://calculador.ax5.org/" target="_blank">Calculadora web</a></center>
+    <center><a class="btn btn-success" href="calculoCuota.html.en">Calculadora web</a></center>
     <br>
 
      <p> O, si lo prefieres, puedes descargar las aplicaciones móviles para tenerlas siempre a mano:</p>
@@ -162,12 +161,12 @@
 <div class="row visible-xs ">
     <ul class="list-group">
       <li class="list-group-item">
-        <a href="https://play.google.com/store/apps/details?id=com.arjonasoftware.mortgagecalculator" target="_blank"><span class="badge pull-right">Descargar</span></a>
+        <a href="https://play.google.com/store/apps/details?id=com.arjonasoftware.mortgagecalculator" target="_blank"><span class="badge pull-right">Download</span></a>
         Android
       </li>
       
       <li class="list-group-item">
-        <a href="http://www.windowsphone.com/es-es/store/app/real-mortgage-calculator/cb975365-9396-42f8-b6f2-1e8d7e870cca" target="_blank"><span class="badge pull-right">Descargar</span></a>
+        <a href="http://www.windowsphone.com/es-es/store/app/real-mortgage-calculator/cb975365-9396-42f8-b6f2-1e8d7e870cca" target="_blank"><span class="badge pull-right">Download</span></a>
         Windows Phone
       </li>
       
@@ -187,7 +186,7 @@
     
 <div class="row hidden-xs hidden-print" style="text-align:center">
 	<div class="col-sm-4 ">
-    <a href="descargas/hipotecas.xls" target="_blank"><div class="thumbnail">
+    <a href="descargas/mortgages.xls" target="_blank"><div class="thumbnail">
       <img src="img/Excel.png" alt="Documento excel">
       <div class="caption">
         <h4>XLS</h4>
@@ -196,7 +195,7 @@
     </div></a>
     </div>
 	<div class="col-sm-4">
-    <a href="descargas/hipotecas.ods" target="_blank"><div class="thumbnail">
+    <a href="descargas/mortgages.ods" target="_blank"><div class="thumbnail">
     <img src="img/libreoffice.png" alt="Documento ODS">
       <div class="caption">
         <h4>ODS</h4>
@@ -206,7 +205,7 @@
     </div>
     
 	<div class="col-sm-4">
-    <a href="https://docs.google.com/spreadsheet/ccc?key=0AuyRIZwM9h4vdF9iSXdyLVBFSkpDX2p0bFlGbkpoaGc&usp=sharing" target="_blank"><div class="thumbnail">
+    <a href="https://docs.google.com/spreadsheet/ccc?key=0AuyRIZwM9h4vdFpmR3pBamVPRjlFSWNKNXl4SFhYdEE&usp=sharing" target="_blank"><div class="thumbnail">
     <img src="img/drive.png" alt="Ver en Google Drive">
       <div class="caption">
         <h4>Google Drive</h4>
@@ -219,17 +218,17 @@
 <div class="row visible-xs ">
     <ul class="list-group">
       <li class="list-group-item">
-        <a href="descargas/hipotecas.xls" target="_blank"><span class="badge pull-right">Descargar</span></a>
+        <a href="descargas/hipotecas.xls" target="_blank"><span class="badge pull-right">Download</span></a>
         XLS (Microsoft Excel)
       </li>
       
       <li class="list-group-item">
-        <a href="descargas/hipotecas.ods" target="_blank"><span class="badge pull-right">Descargar</span></a>
+        <a href="descargas/hipotecas.ods" target="_blank"><span class="badge pull-right">Download</span></a>
         ODS (OpenOffice)
       </li>
       
       <li class="list-group-item">
-        <a href="https://docs.google.com/spreadsheet/ccc?key=0AuyRIZwM9h4vdF9iSXdyLVBFSkpDX2p0bFlGbkpoaGc&usp=sharing" target="_blank"><span class="badge pull-right">Descargar</span></a>
+        <a href="https://docs.google.com/spreadsheet/ccc?key=0AuyRIZwM9h4vdFpmR3pBamVPRjlFSWNKNXl4SFhYdEE&usp=sharing" target="_blank"><span class="badge pull-right">Descargar</span></a>
         Google Drive (Online)
       </li>
     </ul>
@@ -244,7 +243,7 @@
 <section id="menufaq">
     <div class="container">
     
-    <h1>Preguntas frecuentes</h1>
+    <h1>FAQ</h1>
     
     
   <div class="panel-group" id="accordion">
@@ -277,7 +276,7 @@
       <div class="panel-body">
         Aparte de crear confusión, la fórmula aproximada hará que cuando los tipos de interés suban, estos crezcan todavía más para los hipotecados (EURIBOR + diferencial + error que crece más cuanto mayor sea el interés).
 <br><br>
-<center>Diferencia entre la aproximación y la fórmula correcta: <br><img src="img/grafica.png" alt="Gráfica interés"></center>
+<center>Diferencia entre la aproximación y la fórmula correcta: <br><img class="img-responsive" style="max-width:625px; width:100%;" src="img/grafica.png" alt="Gráfica interés"></center>
 
       </div>
     </div>
