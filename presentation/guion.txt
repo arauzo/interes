@@ -1,0 +1,73 @@
+Guión para "La cuota de mi hipoteca está mal calculada"
+©Esta obra, cuyo autor es Antonio Araúzo Azofra, está bajo una licencia de Reconocimiento-CompartirIgual 4.0 Internacional de Creative Commons
+-------------------------------------------------------
+
+1) Mirando las escrituras de mi hipoteca me he dado cuenta de que la cuota está mal calculada.
+
+2) La tuya probablemente también. Ya sea una hipoteca o un préstamo, que lo tengas ahora o que lo vayas a tener.
+
+3) Los bancos probablemente te aplicarán esta formula aproximada.
+
+4) Mientras que la exacta es esta otra.
+
+5) En el colegio, nos explicaron que había dos formas de aplicar el interés. El simple multiplica por el tiempo.
+
+6) Con él, Alicia busca qué hacer con sus ahorros de 10 000€
+
+7) y pregunta en dos bancos. 
+
+8) En el A le ofrecen un depósito a 3 años al 10% anual.
+
+9) En el banco B uno a 1 año al 9.5% anual. ¿Cuál será mejor?
+
+10) Aplicando la formula en el banco A le darán 13 000€.
+
+11) En el B, le darán 10950€ al cabo de un año.
+
+12) Si lo renueva, con sus 10950 obtendrá 11990 en el año 2
+
+13) y 13 129€ al cabo de los tres años.
+
+14) En el banco B ha obtenido más,
+
+15) a pesar de que el interés parecía menor.
+
+16) El interés simple no permite comparar inversiones si varían los plazos o la forma de los pagos. Por esta razón, esta forma de interés no se usa para nada en el ámbito financiero.
+
+17) En cambio, el interés compuesto permite tener en cuenta el incremento del valor del dinero sea cual sea el plazo y el momento en que se hagan los pagos.
+
+18) En la misma situación anterior,
+
+19) con interés compuesto, a Alicia le dirán que el depósito del banco A tiene un tipo de interés anual equivalente del 9.14%. Mientras que el del B es del 9.5%
+
+20) Alicia lo tendrá más claro. Esta es la forma de cálculo de interés que se usa normalmente.
+
+21) Términos financieros como el VAN,
+
+22) la TIR,
+
+23) la rentabilidad de bonos y empresas,
+
+24) la famosa prima de riesgo y cualquier cálculo financiero serio se basan en el interés compuesto.
+
+25) Ahora, veamos qué pasa con los préstamos. 
+
+26) La idea es sencilla. Uno debe pagar intereses por el dinero que debe del periodo anterior. En este ejemplo, en el pago 1 se incluyen 50€ que corresponden al 5% de los 1000€ prestados.
+
+-> Columna Pago / Cuota
+
+26) Además del interés, la cuota también incluye la devolución de parte de la deuda (la amortización). 
+
+27) La deuda va disminuyendo y, 
+
+28) por tanto, también disminuyen los intereses en cada pago.
+
+29) Así continúa hasta que, en el último pago, se devuelve toda la deuda. Lo único que falta es saber cómo calcular la cuota para que al final la deuda sea cero. 
+
+30) Para ello se aplica la formula del método francés. Podéis ver en nuestra web cómo se llega a ella.  
+
+Aproximando con el interés simple
+
+Matemáticamente la aproximación es una aberración porque mientras que para la formula general se usa el interés compuesto para la mensualidad se usa el simple.
+
+) Por qué usan la formula aprox.
