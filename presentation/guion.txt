@@ -62,17 +62,34 @@ Guión para "La cuota de mi hipoteca está mal calculada"
 
 30) Así continúa hasta que, en el último pago, se devuelve toda la deuda. Lo único que falta es saber cómo calcular la cuota para que todo cuadre y, al final, la deuda sea cero. 
 
-31) Para ello se aplica la formula del método francés. Podéis ver en nuestra web cómo se llega a ella.  
+31) Para ello se aplica la fórmula del método francés. Podéis ver en nuestra web cómo se llega a ella.
 
-Aproximando con el interés simple
+Esta formula trabaja con el interés del periodo dado, normalmente años. Es necesario adaptarla para pagos mensuales.
 
-Matemáticamente la aproximación es una aberración porque mientras que para la formula general se usa el interés compuesto para la mensualidad se usa el simple.
+32) Se puede hacer en plan "cuenta de la vieja", aplicando el interés simple y dividir el interés mensual entre 12.
 
-) Por qué usan la formula aprox.
+33) Esto es lo que hace la fórmula apróximada.
+
+34) O se puede hacer de forma exacta, aplicando el interés compuesto para mantener el interés anual equivalente.
+
+35) Esto es lo que hace la fórmula exacta.
+
+Matemáticamente la aproximación es un hibrido aberrante porque, mientras que para la formula general se usa el interés compuesto, para la mensualidad se usa el simple.
+
+) Diferencia
+
+) ¿Por qué usan algunos bancos la formula aproximada?
+
+) ¿Por qué es más fácil? En el pasado esto podría ser una razón. Sin embargo, hoy en día, hasta el teléfono que llevamos encima puede hacer miles de estos cálculos en un segundo.
+
+) ¿Por tradición? Las tradiciones están bien para las fiestas pero ¿usar una aproximación tipo ``cuenta la vieja'' por tradición? Hemos pasado el efecto 2000, cambiado de moneda y abordado cambios mucho más complejos que este.
+
+) Usar la correcta
 
 
-
-
-
+Mencionar:
+ web
+ app móviles
+ petición
 
 

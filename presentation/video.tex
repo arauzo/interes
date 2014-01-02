@@ -475,27 +475,121 @@ $C_\text{ Final} = C_\text{ Inicial} \cdot (1+i)^t$
 
 
 
+\frame{\frametitle{Cálculo de la cuota}
+\begin{columns}<1->
+  \begin{column}{0.28\textwidth}
+  \end{column}
+  \begin{column}{0.35\textwidth}
+      \setbeamercolor{block title}{use=structure,fg=white,bg=blue!75!black}
+      \begin{block}{\center \bf Cuota fija\\(método frances)}
+        \setlength\abovedisplayskip{0pt}
+        \Large
+        \begin{equation*}
+        a = C \frac{i}{1-\frac{1}{(1+i)^n}}
+        \end{equation*}
+%        { \footnotesize
+%        \begin{itemize}
+%        \item $a$, cuota fija (anualidad)
+%        \item $C$, capital
+%        \item $i$, tipo de interés (anual)
+%        \item $n$, número de pagos (años)
+%        \end{itemize}
+%        }
+      \end{block}
+  \end{column}
+  \begin{column}{0.28\textwidth}
+  \end{column}
+\end{columns}
+\bigskip
+
+\only<2->{
+\PutAt[3cm]{(2cm,2.8cm)}{\large $i_m = \frac{i_a}{12}$} 
+\begin{textblock*}{1.5cm}(2.8cm,3.3cm)
+\begin{tikzpicture}
+\draw[->,red!75!black,line width=1mm] (1.5cm, 0cm) .. controls (0.5cm,-0.5cm) .. (0cm, -1.5cm);
+\end{tikzpicture}
+\end{textblock*}
+}
+
+\only<4->{
+\PutAt[4cm]{(9cm,2.8cm)}{\large $i_m = \sqrt[12]{(1+i)}-1$} 
+\begin{textblock*}{1.5cm}(8.45cm,3.3cm)
+\begin{tikzpicture}
+\draw[->,green!75!black,line width=1mm] (0cm, 0cm) .. controls (1cm,-0.5cm) .. (1.5cm, -1.5cm);
+\end{tikzpicture}
+\end{textblock*}
+}
+
+
+\begin{columns}
+  \begin{column}{0.48\textwidth}<3->
+      \setbeamercolor{block title}{use=structure,fg=white,bg=red!75!black}
+      %\setbeamercolor{block body}{use=structure,fg=black,bg=red!20!white}
+      \begin{block}{\center \bf Approximada}
+%      \resizebox{!}{23pt}{
+          \setlength\abovedisplayskip{0pt}
+          \vspace{1mm}
+          \LARGE
+          \begin{equation*}
+          m = C \frac{ \frac{i}{12} } {1 - \frac{1}{(1+\frac{i}{12})^{12n}}}
+          \end{equation*}
+          \vspace{1mm}
+          %suponen $i_m = \frac{i}{12}$
+%      }
+      \end{block}
+  \end{column}
+  \pause
+  \begin{column}{0.48\textwidth}<5->
+      \setbeamercolor{block title}{use=structure,fg=white,bg=green!75!black}
+      %\setbeamercolor{block body}{use=structure,fg=black,bg=red!20!white}
+      \begin{block}{\center \bf Exacta}
+%      \resizebox{!}{23pt}{
+          \setlength\abovedisplayskip{0pt}
+          \vspace{2mm}
+          \LARGE
+          \begin{equation*}
+          m = C \frac{\sqrt[12]{(1+i)}-1}{1-\frac{1}{(1+i)^{n}}}
+          \end{equation*}
+          \vspace{2mm}
+          %donde $i_m = (1+i)^{\frac{1}{12}} - 1$
+%      }
+      \end{block}
+  \end{column}
+\end{columns}
+}
+
+
 
 \frame{\frametitle{¿Por qué usan la aproximación?}
-\begin{enumerate}
-\item Es más sencilla
-    \begin{itemize}
-    \item En el pasado, vale. Hoy en día, hasta el teléfono que llevamos encima puede hacer miles de estos cálculos en un segundo.
-    \item Aplicaciones para móvil en nuestra web: \href{http://interes.ax5.org/}{interes.ax5.org}
-    \end{itemize}
-\item Tradición
-    \begin{itemize}
-    \item Las tradiciones están bien para las fiestas pero ¿usar una aproximación tipo ``cuenta la vieja'' por tradición?
-    \end{itemize}
-\item Por ignorancia
-    \begin{itemize}
-    \item No, en los bancos hay gente muy preparada haciendo cálculos mucho más complejos que estos.
-    \end{itemize}
-\item Más beneficio para el banco
-    \begin{itemize}
-    \item Esta aproximación siempre resulta en mayores ingresos para el banco.
-    \end{itemize}
-\end{enumerate}
+\pause
+\begin{columns}
+  \begin{column}{0.85\textwidth}
+    \begin{enumerate}
+    \item ¿Más fácil?
+        \begin{itemize}
+        \item En el pasado, vale. Hoy en día, hasta el teléfono que llevamos encima puede hacer miles de estos cálculos en un segundo.
+        \item Aplicaciones para móvil en nuestra web: \href{http://interes.ax5.org/}{interes.ax5.org}
+        \end{itemize}
+    \pause
+    \item ¿Tradición?
+        \begin{itemize}
+        \item Las tradiciones están bien para las fiestas pero ¿usar una aproximación tipo ``cuenta la vieja'' por tradición?
+        \end{itemize}
+    \pause
+    \item ¿Ignorancia?
+        \begin{itemize}
+        \item No, en los bancos hay gente muy preparada haciendo cálculos mucho más complejos que estos.
+        \end{itemize}
+    \pause
+    \item ¿Más beneficios para el banco?
+        \begin{itemize}
+        \item Esta aproximación siempre resulta en mayores ingresos para el banco.
+        \end{itemize}
+    \end{enumerate}
+  \end{column}
+  \begin{column}{0.1\textwidth}
+  \end{column}
+\end{columns}
 }
 
 
@@ -513,14 +607,9 @@ $C_\text{ Final} = C_\text{ Inicial} \cdot (1+i)^t$
 
 \frame{\frametitle{-Eliminar-}
 \begin{itemize}
-    \item Francés (cuota fija) \\
-    \begin{equation} 
-    a = C \frac{i}{1-\frac{1}{(1+i)^n}}
-    \end{equation}
-    donde $a$ es la cuota fija o anualidad, $C$ es el capital, $i$ el tipo de interés anual y $n$ el número de años
+    \item donde $a$ es la cuota fija o anualidad, $C$ es el capital, $i$ el tipo de interés anual y $n$ el número de años
     \item ¿Cómo debe calcularse una mensualidad?
-    \item $i = (1+i_t)^{\frac{1}{n}} - 1$
-    
+    \item $i = (1+i_t)^{\frac{1}{n}} - 1$    
 \end{itemize}
 }
 
