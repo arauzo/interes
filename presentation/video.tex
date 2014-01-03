@@ -44,7 +44,7 @@
 %
   \newcommand<>{\PutAt}[3][0pt]{%
     {\only#4{\begin{textblock*}{#1}#2%
-      #3
+      #3%
     \end{textblock*}}}%
   }
 %**
@@ -111,7 +111,7 @@
   \begin{column}{0.48\textwidth}
       \setbeamercolor{block title}{use=structure,fg=white,bg=red!75!black}
       %\setbeamercolor{block body}{use=structure,fg=black,bg=red!20!white}
-      \begin{block}{\center \bf Approximada}
+      \begin{block}{\center \bf Aproximada}
 %      \resizebox{!}{23pt}{
           \setlength\abovedisplayskip{0pt}
           \vspace{1mm}
@@ -245,8 +245,7 @@ $C_\text{ Final} = C_\text{ Inicial} \cdot (1+i \cdot t)$
 \begin{center} 
   \includegraphics[width=\textwidth]{IntSimple.pdf} 
 \end{center}
-\pause
-\PutAt<+->{(0.5cm,3cm)}{
+\PutAt<2->{(0.5cm,3cm)}{
   \rotatebox{35}{
     \OrangeBox[font=\LARGE]{\bf ¡No sirve para comparar!}
   }
@@ -520,12 +519,11 @@ $C_\text{ Final} = C_\text{ Inicial} \cdot (1+i)^t$
 \end{textblock*}
 }
 
-
 \begin{columns}
   \begin{column}{0.48\textwidth}<3->
       \setbeamercolor{block title}{use=structure,fg=white,bg=red!75!black}
       %\setbeamercolor{block body}{use=structure,fg=black,bg=red!20!white}
-      \begin{block}{\center \bf Approximada}
+      \begin{block}{\center \bf Aproximada}
 %      \resizebox{!}{23pt}{
           \setlength\abovedisplayskip{0pt}
           \vspace{1mm}
@@ -560,34 +558,69 @@ $C_\text{ Final} = C_\text{ Inicial} \cdot (1+i)^t$
 
 
 
+\frame{\frametitle{¿Qué diferencia hay entre ambas?}
+%\ShowPutAtGrid
+\PutAt<2->[\paperwidth]{(0cm,0cm)}{
+\begin{tikzpicture}[remember picture,overlay]
+   \node[at=(current page.center)]{\includegraphics[width=12cm]{ScreenshotInteresesSobreIntereses.png}};
+   \node[at=(current page.center),yshift=-2.5cm]{$\vdots$};
+\end{tikzpicture}
+}
+\PutAt<3->[\paperwidth]{(0cm,0cm)}{
+\begin{tikzpicture}[remember picture,overlay]
+\draw[->,blue,line width=1mm] (7.65cm,-2cm) -- (7.65,-3.3cm);
+\end{tikzpicture}
+}
+}
+
+
+
 \frame{\frametitle{¿Por qué usan la aproximación?}
-\pause
+%\ShowPutAtGrid
 \begin{columns}
   \begin{column}{0.85\textwidth}
     \begin{enumerate}
-    \item ¿Más fácil?
+    \item<2-> ¿Más fácil?
         \begin{itemize}
         \item En el pasado, vale. Hoy en día, hasta el teléfono que llevamos encima puede hacer miles de estos cálculos en un segundo.
-        \item Aplicaciones para móvil en nuestra web: \href{http://interes.ax5.org/}{interes.ax5.org}
+%        \item Aplicaciones para móvil en nuestra web: \href{http://interes.ax5.org/}{interes.ax5.org}
         \end{itemize}
-    \pause
-    \item ¿Tradición?
+    \item<4-> ¿Tradición?
         \begin{itemize}
         \item Las tradiciones están bien para las fiestas pero ¿usar una aproximación tipo ``cuenta la vieja'' por tradición?
         \end{itemize}
-    \pause
-    \item ¿Ignorancia?
+    \item<6-> ¿Ignorancia?
         \begin{itemize}
         \item No, en los bancos hay gente muy preparada haciendo cálculos mucho más complejos que estos.
         \end{itemize}
-    \pause
-    \item ¿Más beneficios para el banco?
+    \item<8-> ¿Más beneficios para el banco?
         \begin{itemize}
         \item Esta aproximación siempre resulta en mayores ingresos para el banco.
         \end{itemize}
     \end{enumerate}
   \end{column}
   \begin{column}{0.1\textwidth}
+        \bigskip
+        
+        \visible<3->{\begin{tikzpicture}
+        \draw[red,line width=2mm] (0cm,0cm) -- (1cm,1cm);
+        \draw[red,line width=2mm] (0cm,1cm) -- (1cm,0cm);
+        \end{tikzpicture}}
+
+        \bigskip
+        \visible<5->{\begin{tikzpicture}
+        \draw[red,line width=2mm] (0cm,0cm) -- (1cm,1cm);
+        \draw[red,line width=2mm] (0cm,1cm) -- (1cm,0cm);
+        \end{tikzpicture}}
+
+        \bigskip
+        \visible<7->{\begin{tikzpicture}
+        \draw[red,line width=2mm] (0cm,0cm) -- (1cm,1cm);
+        \draw[red,line width=2mm] (0cm,1cm) -- (1cm,0cm);
+        \end{tikzpicture}}
+
+        \bigskip
+        \visible<9->{\centering \fontsize{2cm}{1em}\selectfont \color{blue} \bf ?}
   \end{column}
 \end{columns}
 }

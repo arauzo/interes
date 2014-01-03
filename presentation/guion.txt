@@ -76,13 +76,23 @@ Esta formula trabaja con el interés del periodo dado, normalmente años. Es nec
 
 Matemáticamente la aproximación es un hibrido aberrante porque, mientras que para la formula general se usa el interés compuesto, para la mensualidad se usa el simple.
 
-) Diferencia
+36) ¿Qué diferencia hay entre ambas?
 
-) ¿Por qué usan algunos bancos la formula aproximada?
+37) La couta aproximada siempre es mayor. Puedes calcularla con la hoja de cálculo y las aplicaciones de nuestra web. 
 
-) ¿Por qué es más fácil? En el pasado esto podría ser una razón. Sin embargo, hoy en día, hasta el teléfono que llevamos encima puede hacer miles de estos cálculos en un segundo.
+Aunque, la diferencia no es muy grande, indigna su significado. Aproximadamente, es como si los intereses que pagamos en febrero, marzo, abril... los pagasemos en diciembre. 
 
-) ¿Por tradición? Las tradiciones están bien para las fiestas pero ¿usar una aproximación tipo ``cuenta la vieja'' por tradición? Hemos pasado el efecto 2000, cambiado de moneda y abordado cambios mucho más complejos que este.
+38) Eso es lo que está calculado en esta columna. Así que pagamos intereses sobre un dinero que ya hemos pagado.
+
+39) ¿Por qué usan algunos bancos la formula aproximada?
+
+40 y 41) ¿Por qué es más fácil? En el pasado esto podría ser una razón. Sin embargo, hoy en día, hasta el teléfono que llevamos encima puede hacer miles de estos cálculos en un segundo.
+
+42 y 43) ¿Por tradición? Las tradiciones están bien para las fiestas pero ¿usar una aproximación tipo ``cuenta la vieja'' por tradición? Hemos pasado el efecto 2000, cambiado de moneda y abordado cambios mucho más complejos que este.
+
+44 y 45) ¿Por ignorancia? No, en los bancos hay gente muy preparada haciendo cálculos mucho más complejos que estos.
+
+46 y 47) La única razón que se nos ocurre es porque así ganan más. 
 
 ) Usar la correcta
 
