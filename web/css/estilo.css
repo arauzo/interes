@@ -6,14 +6,12 @@ body {
   height:100%;
   color: #5a5a5a;
   background-color:#FFF;
+  font-family: 'Roboto', sans-serif;
 }
 
-h1{
-	font-family: 'Titan One', cursive;
-}
-
-h2{
-	font-family: 'Titan One', cursive;
+h1, h2, h3, h4{
+	font-family: 'Roboto Slab', serif;
+	font-weight:700;
 }
 
 section{
@@ -68,7 +66,27 @@ section{
     width: 100%;
     height: 100%;
 }
+
+.botonpeticion{
+	font-size:24px;	
+}
+
+#footer{
+	background-color:#207c00;
+	color:#fff;
+	font-size:80%;
+}
+
+#footer h4{
+	color:#91ff75;
+}
+
+.iconouser{
+	font-size:95px;
+	color:#21c300;
+}
            
+.tablaCentrada table{margin:0 auto;text-align:center}
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -83,7 +101,9 @@ section{
 -------------------------------------------------- */
 
 @media (max-width: 767px) {
-
+	.seccion_calculadora{
+		padding-top:70px;
+	}
 
 }
 
