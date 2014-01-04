@@ -94,12 +94,14 @@ Aunque, la diferencia no es muy grande, indigna su significado. Aproximadamente,
 
 46 y 47) La única razón que se nos ocurre es porque así ganan más. 
 
-) Usar la correcta
+48) Usar formula exacta permitiría tener hipotecas de tipo variable TAE. Ahora, si tienes una hipoteca y dinero en un depósito como colchón (por si vienen mal dadas), si ambos están al 5%, puedes pensar que ni pierdes ni ganas pero estarás perdiendo.
+
+49) No sirve que publiquen un TAE con un tipo fijo estimado. Aunque la diferencia con los tipos de interés actuales sea pequeña, el error de la aproximación crece a medida que aumenta el interés. Por ejemplo, con un 10% de interés nos estarían aplicando practicamente medio punto más (el 10.5%).
+
+) Pedimos que se obligue a los bancos a usar la fórmula exacta.
+
+) Por favor, colabora con esta iniciativa firmando la petición y compartiendolo para que corra la voz. Gracias.
 
 
-Mencionar:
- web
- app móviles
- petición
 
 
