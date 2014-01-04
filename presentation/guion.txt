@@ -2,11 +2,11 @@ Guión para "La cuota de mi hipoteca está mal calculada"
 ©Esta obra, cuyo autor es Antonio Araúzo Azofra, está bajo una licencia de Reconocimiento-CompartirIgual 4.0 Internacional de Creative Commons
 -------------------------------------------------------
 
-1) Mirando las escrituras de mi hipoteca me he dado cuenta de que la cuota está mal calculada.
+1) Mirando las escrituras de mi hipoteca, he visto que la cuota está mal calculada.
 
-2) La tuya probablemente también. Ya sea una hipoteca o un préstamo, que lo tengas ahora o que lo vayas a tener.
+2) La tuya probablemente también. Ya sea hipoteca o préstamo, lo tengas o lo vayas a tener,
 
-3) Los bancos probablemente te aplicarán esta formula aproximada.
+3) los bancos probablemente te aplicarán esta formula aproximada.
 
 4) Mientras que la exacta es esta otra.
 
@@ -32,7 +32,7 @@ Guión para "La cuota de mi hipoteca está mal calculada"
 
 15) a pesar de que el interés parecía menor.
 
-16) El interés simple no permite comparar inversiones si varían los plazos o la forma de los pagos. Por esta razón, esta forma de interés no se usa para nada en el ámbito financiero.
+16) El interés simple no permite comparar inversiones si varían los plazos. Por esta razón, esta forma de interés no se usa para nada en el ámbito financiero.
 
 17) En cambio, el interés compuesto permite tener en cuenta el incremento del valor del dinero sea cual sea el plazo y el momento en que se hagan los pagos.
 
@@ -46,7 +46,7 @@ Guión para "La cuota de mi hipoteca está mal calculada"
 
 22) la TIR,
 
-23) la rentabilidad de bonos y empresas,
+23) la rentabilidad de los bonos,
 
 24) la famosa prima de riesgo y cualquier cálculo financiero serio se basan en el interés compuesto.
 
@@ -60,7 +60,7 @@ Guión para "La cuota de mi hipoteca está mal calculada"
 
 29) por tanto, también disminuyen los intereses en cada pago.
 
-30) Así continúa hasta que, en el último pago, se devuelve toda la deuda. Lo único que falta es saber cómo calcular la cuota para que todo cuadre y, al final, la deuda sea cero. 
+30) Así continúa hasta que, con el último pago, se devuelve toda la deuda. Lo único que falta es saber cómo calcular la cuota para que todo cuadre y, al final, la deuda sea cero. 
 
 31) Para ello se aplica la fórmula del método francés. Podéis ver en nuestra web cómo se llega a ella.
 
@@ -98,7 +98,7 @@ Aunque, la diferencia no es muy grande, indigna su significado. Aproximadamente,
 
 49) Ahora, si tienes una hipoteca y dinero en un depósito como colchón (por si vienen mal dadas), si ambos están al 5%, puedes pensar que ni pierdes ni ganas pero estarás perdiendo.
 
-50) No sirve que publiquen un TAE con un tipo fijo estimado. Aunque la diferencia con los tipos de interés actuales sea pequeña, el error de la aproximación crece a medida que aumenta el interés. Por ejemplo, con un 10% de interés nos estarían aplicando practicamente medio punto más (el 10.5%).
+50) No sirve que publiquen un TAE en un momento dado, porque el error de la aproximación crece a medida que aumenta el interés. Por ejemplo, con un 10% de interés nos estarían aplicando practicamente medio punto más (el 10.5%).
 
 51) Pedimos que se obligue a los bancos a usar la fórmula exacta.
 
