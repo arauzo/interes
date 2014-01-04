@@ -6,7 +6,7 @@ Guión para "La cuota de mi hipoteca está mal calculada"
 
 2) La tuya probablemente también. Ya sea hipoteca o préstamo, lo tengas o lo vayas a tener,
 
-3) los bancos probablemente te aplicarán esta formula aproximada.
+3) los bancos probablemente te aplicarán esta fórmula aproximada.
 
 4) Mientras que la exacta es esta otra.
 
@@ -20,11 +20,11 @@ Guión para "La cuota de mi hipoteca está mal calculada"
 
 9) En el banco B uno a 1 año al 9.5% anual. ¿Cuál será mejor?
 
-10) Aplicando la formula en el banco A le darán 13 000€.
+10) Aplicando la fórmula en el banco A le darán 13 000€.
 
 11) En el B, le darán 10950€ al cabo de un año.
 
-12) Si lo renueva, con sus 10950 obtendrá 11990 en el año 2
+12) Si lo renueva, con sus 10 950 obtendrá 11 990 en el año 2
 
 13) y 13 129€ al cabo de los tres años.
 
@@ -74,21 +74,21 @@ Esta formula trabaja con el interés del periodo dado, normalmente años. Es nec
 
 35) Esto es lo que hace la fórmula exacta.
 
-Matemáticamente la aproximación es un hibrido aberrante porque, mientras que para la formula general se usa el interés compuesto, para la mensualidad se usa el simple.
+Matemáticamente la aproximación es un híbrido aberrante porque, mientras que para la fórmula general se usa el interés compuesto, para la mensualidad se usa el simple.
 
 36) ¿Qué diferencia hay entre ambas?
 
 37) La couta aproximada siempre es mayor. Puedes calcularla con la hoja de cálculo y las aplicaciones de nuestra web. 
 
-Aunque, la diferencia no es muy grande, indigna su significado. Aproximadamente, es como si los intereses que pagamos en febrero, marzo, abril... los pagasemos en diciembre. 
+Aunque, la diferencia no es muy grande, indigna su significado. Aproximadamente, es como si los intereses que pagamos en febrero, marzo, abril... los pagásemos en diciembre. 
 
 38) Eso es lo que está calculado en esta columna. Así que pagamos intereses sobre un dinero que ya hemos pagado.
 
 39) ¿Por qué usan algunos bancos la formula aproximada?
 
-40 y 41) ¿Por qué es más fácil? En el pasado esto podría ser una razón. Sin embargo, hoy en día, hasta el teléfono que llevamos encima puede hacer miles de estos cálculos en un segundo.
+40 y 41) ¿Porque es más fácil? En el pasado esto podría ser una razón. Sin embargo, hoy en día, hasta el teléfono que llevamos encima puede hacer miles de estos cálculos en un segundo.
 
-42 y 43) ¿Por tradición? Las tradiciones están bien para las fiestas pero ¿usar una aproximación tipo ``cuenta la vieja'' por tradición? Hemos pasado el efecto 2000, cambiado de moneda y abordado cambios mucho más complejos que este.
+42 y 43) ¿Por tradición? Las tradiciones están bien para las fiestas pero ¿usar una aproximación tipo "cuenta la vieja" por tradición? Hemos pasado el efecto 2000, cambiado de moneda y abordado cambios mucho más complejos que este.
 
 44 y 45) ¿Por ignorancia? No, en los bancos hay gente muy preparada haciendo cálculos mucho más complejos que estos.
 
@@ -98,11 +98,11 @@ Aunque, la diferencia no es muy grande, indigna su significado. Aproximadamente,
 
 49) Ahora, si tienes una hipoteca y dinero en un depósito como colchón (por si vienen mal dadas), si ambos están al 5%, puedes pensar que ni pierdes ni ganas pero estarás perdiendo.
 
-50) No sirve que publiquen un TAE en un momento dado, porque el error de la aproximación crece a medida que aumenta el interés. Por ejemplo, con un 10% de interés nos estarían aplicando practicamente medio punto más (el 10.5%).
+50) No sirve que publiquen un TAE en un momento dado, porque el error de la aproximación crece a medida que aumenta el interés. Por ejemplo, con un 10% de interés nos estarían aplicando prácticamente medio punto más (el 10.5%).
 
 51) Pedimos que se obligue a los bancos a usar la fórmula exacta.
 
-Por favor, colabora con esta iniciativa firmando la petición y compartiendolo para que corra la voz. Gracias.
+Por favor, colabora con esta iniciativa firmando la petición y compartiéndolo para que corra la voz. Gracias.
 
 
 
