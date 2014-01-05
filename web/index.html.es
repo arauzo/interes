@@ -68,13 +68,12 @@
  <div class="logoblanco"></div>    
     <div class="container">
 
-<div class="col-md-6">
-<center><h1>¿Tu BANCO calcula correctamente tu HIPOTECA?</h1>
+<div class="col-md-6 text-center">
+<h1>¿Tu BANCO calcula correctamente tu HIPOTECA?</h1>
 <br> 
  <div class="video-contenedor">
-<iframe width="100%" src="//www.youtube.com/embed/4dykg9k_s9w?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:100%; border: 0;" src="//www.youtube.com/embed/4dykg9k_s9w?rel=0" allowfullscreen></iframe>
      </div>
-</center>
 
 </div>
 
@@ -82,31 +81,32 @@
 <div style="height:30px"></div>
 <p>En la actualidad la mayoría de los bancos calculan las mensualidades de los préstamos e hipotecas de forma inexacta, utilizando la fórmula tradicional. Esta web pretende informar de que existe una forma correcta de calcular el interés, que no es la que se aplica habitualmente.</p>
 
-<center><h2>¿Quieres colaborar?</h2></center>
+<h2 class="text-center">¿Quieres colaborar?</h2>
+<div class="text-center">
+    <a class="btn btn-default botonpeticion" target="_blank" href="http://www.avaaz.org/es/petition/Bancos_y_legisladores_Usen_la_formula_correcta_en_las_hipotecas/"><strong>Ver petición</strong></a>
+</div>
+	<br> <br> 
 
-    <center><a class="btn btn-default botonpeticion" target="_blank" href="http://www.avaaz.org/es/petition/Bancos_y_legisladores_Usen_la_formula_correcta_en_las_hipotecas/"><strong>Ver petición</strong></a></center>
-<br> <br> 
-
-<div class="col-sm-6"><center>
+<div class="col-sm-6 text-center">
 	<h2>Compártelo</h2>
     <div class="fb-share-button" data-href="http://interes.ax5.org/" data-type="button_count"></div>
     <br><br>
     <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://interes.ax5.org/" data-text="¿Tu banco aplica correctamente el interés a tu hipoteca?" data-lang="es">Twittear</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></center>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 
 </div>
 
 
- <div class="col-sm-6">
-    <center>
+ <div class="col-sm-6 text-center">
+    
 		<h2>Síguenos</h2>
         
         <div class="fb-like" data-href="https://www.facebook.com/realmortgagecalculator" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div><br><br>
         
 <a href="https://twitter.com/RMCalc" class="twitter-follow-button" data-show-count="false" data-lang="es">Seguir a @RMCalc</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-	</center>
+	
   </div>  
 </div>
 
@@ -120,12 +120,13 @@
     
     
   <div class="col-md-6">   
-    <center><h1>Calcúlalo tú mismo</h1></center>
+    <h1  class="text-center">Calcúlalo tú mismo</h1>
 <br>
     <p>Para calcular la cuota de tu hipoteca o préstamo junto con su tabla de amortización usando la fórmula exacta y la aproximada puedes utilizar la siguiente calculadora desde el navegador web: </p>
-    
-    <center><a class="btn btn-success" href="calculoCuota.html.es">Calculadora web</a></center>
-    <br>
+    <div class="text-center">
+    <a class="btn btn-success text-center" href="calculoCuota.html.es">Calculadora web</a>
+    </div>
+	<br>
 
      <p> O, si lo prefieres, puedes descargar las aplicaciones móviles para tenerlas siempre a mano:</p>
    
@@ -181,11 +182,11 @@
     
     
   <div class="col-md-6">
-   <center><h1>Hoja de cálculo</h1></center>
+   <h1  class="text-center">Hoja de cálculo</h1>
    <br>
    <p>También puedes descargar una hoja de cálculo donde se presentan los cálculos y un gráfico comparativo en el que puede apreciarse la diferencia entre aplicar una u otra fórmula:</p>
     
-<div class="row hidden-xs hidden-print" style="text-align:center">
+<div class="row hidden-xs hidden-print text-center" >
 	<div class="col-sm-4 ">
     <a href="descargas/hipotecas.xls" target="_blank"><div class="thumbnail">
       <img src="img/Excel.png" alt="Documento excel">
@@ -206,7 +207,7 @@
     </div>
     
 	<div class="col-sm-4">
-    <a href="https://docs.google.com/spreadsheet/ccc?key=0AuyRIZwM9h4vdF9iSXdyLVBFSkpDX2p0bFlGbkpoaGc&usp=sharing" target="_blank"><div class="thumbnail">
+    <a href="https://docs.google.com/spreadsheet/ccc?key=0AuyRIZwM9h4vdF9iSXdyLVBFSkpDX2p0bFlGbkpoaGc" target="_blank"><div class="thumbnail">
     <img src="img/drive.png" alt="Ver en Google Drive">
       <div class="caption">
         <h4>Google Drive</h4>
@@ -229,7 +230,7 @@
       </li>
       
       <li class="list-group-item">
-        <a href="https://docs.google.com/spreadsheet/ccc?key=0AuyRIZwM9h4vdF9iSXdyLVBFSkpDX2p0bFlGbkpoaGc&usp=sharing" target="_blank"><span class="badge pull-right">Descargar</span></a>
+        <a href="https://docs.google.com/spreadsheet/ccc?key=0AuyRIZwM9h4vdF9iSXdyLVBFSkpDX2p0bFlGbkpoaGc" target="_blank"><span class="badge pull-right">Descargar</span></a>
         Google Drive (Online)
       </li>
     </ul>
@@ -260,7 +261,8 @@
       <div class="panel-body">
         Es la fórmula que actualmente utilizan la mayoría de los bancos para calcular la cuota de la hipoteca. Es una mezcla entre interés simple y compuesto que sesga el resultado a favor del banco.
         <br><br>
-        <center><img src="img/aproximada.png" alt="Fórmula aproximada"></center>
+        
+		<div class="text-center"><img src="img/aproximada.png" alt="Fórmula aproximada"></div>
 
       </div>
     </div>
@@ -277,7 +279,8 @@
       <div class="panel-body">
         Aparte de crear confusión, la fórmula aproximada hará que cuando los tipos de interés suban, estos crezcan todavía más para los hipotecados (EURIBOR + diferencial + error que crece más cuanto mayor sea el interés).
 <br><br>
-<center>Diferencia entre la aproximación y la fórmula correcta: <br><img class="img-responsive" style="max-width:625px; width:100%;" src="img/grafica.png" alt="Gráfica interés"></center>
+<div class="text-center">Diferencia entre la aproximación y la fórmula correcta: <br>
+<img class="img-responsive" style="max-width:625px; width:100%;" src="img/grafica.png" alt="Gráfica interés"></div>
 
       </div>
     </div>
@@ -295,7 +298,7 @@
        Es la fórmula realmente correcta, la que deberían de utilizar los bancos para calcular la cuota de la hipoteca. Es la fórmula original del interés compuesto.
        
         <br><br>
-        <center><img src="img/exacta.png" alt="Fórmula exacta"></center>
+        <div class="text-center"><img src="img/exacta.png" alt="Fórmula exacta"></div>
       </div>
     </div>
   </div>
