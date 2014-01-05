@@ -295,7 +295,7 @@
        Es la fórmula realmente correcta, la que deberían de utilizar los bancos para calcular la cuota de la hipoteca. Es la fórmula original del interés compuesto.
        
         <br><br>
-        <center><img src="img/exacta.png" alt="Fórmula aproximada"></center>
+        <center><img src="img/exacta.png" alt="Fórmula exacta"></center>
       </div>
     </div>
   </div>

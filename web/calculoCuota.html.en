@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="¿Tu banco calcula correctamente tu hipoteca? Descubre qué fallo se comete habitualmente">
+    <meta name="description" content="Does your bank calculate your mortgage correctly? Discover the failure is usually committed">
     <link rel="shortcut icon"  type="image/png" href="img/favicon.png">
 
     <title>Calculation of mortgage</title>
@@ -60,7 +60,7 @@
             <td> <input type="text" name="interes" id="interes"/> </td>
           </tr>
           <tr> 
-            <td colspan="2"> <br><input type="submit" class="btn btn-default" value="Enviar" name="bEnviar" id="bEnviar" onclick="enviar();return false;"/> 
+            <td colspan="2"> <br><input type="submit" class="btn btn-default" value="Send" name="bEnviar" id="bEnviar" onclick="enviar();return false;"/> 
 							 <input type="hidden" name="idioma" id="idioma" value="es"/>	</td>
           </tr>  
         </table> 
