@@ -4,10 +4,10 @@
     <meta charset="utf-8">
     <meta name="google-site-verification" content="g1upmNLpknsGovGfZqj8Mw0qUk3Zns0A00-kvQ6qxe0" /> <!-- para Youtube-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="¿Tu banco calcula correctamente tu hipoteca? Descubre qué fallo se comete habitualmente">
+    <meta name="description" content="Does your bank calculate your mortgage correctly? Discover the failure is usually committed">
     <link rel="shortcut icon"  type="image/png" href="img/favicon.png">
 
-    <title>Interés en hipotecas</title>
+    <title>Interest on mortgages</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -52,7 +52,7 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
                 <li><a href="#menuinicio"><span class="glyphicon glyphicon-home"></span> Home</a></li>
-                <li><a href="#menucalculo"><span class="glyphicon glyphicon-usd"></span> Cálculo</a></li>
+                <li><a href="#menucalculo"><span class="glyphicon glyphicon-usd"></span> Calculation</a></li>
                 <li><a href="#menufaq"><span class="glyphicon glyphicon-question-sign"></span> FAQ</a></li>
           </ul>
         </div><!--/.nav-collapse -->
@@ -69,7 +69,7 @@
     <div class="container">
 
 <div class="col-md-6">
-<center><h1>¿Tu BANCO calcula correctamente tu HIPOTECA?</h1>
+<center><h1>Does your BANK calculate your MORTGAGE correctly?</h1>
 <br> 
  <div class="video-contenedor">
 <iframe width="100%" src="//www.youtube.com/embed/4dykg9k_s9w?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -80,18 +80,18 @@
 
 <div class="col-md-6">
 <div style="height:30px"></div>
-<p>En la actualidad la mayoría de los bancos calculan las mensualidades de los préstamos e hipotecas de forma inexacta, utilizando la fórmula tradicional. Esta web pretende informar de que existe una forma correcta de calcular el interés, que no es la que se aplica habitualmente.</p>
+<p>Currently, most banks calculate the monthly payments on loans and mortgages inaccurately, using the traditional formula. This site aims to report that there is a correct way to calculate the interest, which is not usually applied.</p>
 
-<center><h2>¿Quieres colaborar?</h2></center>
+<center><h2>Do you want to contribute?</h2></center>
 
-    <center><a class="btn btn-default botonpeticion" target="_blank" href="http://www.avaaz.org/es/petition/Bancos_y_legisladores_Usen_la_formula_correcta_en_las_hipotecas/"><strong>Ver petición</strong></a></center>
+    <center><a class="btn btn-default botonpeticion" target="_blank" href="http://www.avaaz.org/es/petition/Bancos_y_legisladores_Usen_la_formula_correcta_en_las_hipotecas/"><strong>View petition</strong></a></center>
 <br> <br> 
 
 <div class="col-sm-6"><center>
-	<h2>Compártelo</h2>
+	<h2>Share it</h2>
     <div class="fb-share-button" data-href="http://interes.ax5.org/" data-type="button_count"></div>
     <br><br>
-    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://interes.ax5.org/" data-text="¿Tu banco aplica correctamente el interés a tu hipoteca?" data-lang="es">Twittear</a>
+    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://interes.ax5.org/" data-text="¿Tu banco aplica correctamente el interés a tu hipoteca?" data-lang="es">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></center>
 
 
@@ -100,11 +100,11 @@
 
  <div class="col-sm-6">
     <center>
-		<h2>Síguenos</h2>
+		<h2>Follow us</h2>
         
         <div class="fb-like" data-href="https://www.facebook.com/realmortgagecalculator" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div><br><br>
         
-<a href="https://twitter.com/RMCalc" class="twitter-follow-button" data-show-count="false" data-lang="es">Seguir a @RMCalc</a>
+<a href="https://twitter.com/RMCalc" class="twitter-follow-button" data-show-count="false" data-lang="es">Follow @RMCalc</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 	</center>
   </div>  
@@ -120,14 +120,14 @@
     
     
   <div class="col-md-6">   
-    <center><h1>Calcúlalo tú mismo</h1></center>
+    <center><h1>Calculate it yourself</h1></center>
 <br>
-    <p>Para calcular la cuota de tu hipoteca o préstamo junto con su tabla de amortización usando la fórmula exacta y la aproximada puedes utilizar la siguiente calculadora desde el navegador web: </p>
+    <p>To calculate the quota of your mortgage or loan along with its amortization schedule using the exact and approximate formula you can use the following calculator from a web browser: </p>
     
     <center><a class="btn btn-success" href="calculoCuota.html.en">Calculadora web</a></center>
     <br>
 
-     <p> O, si lo prefieres, puedes descargar las aplicaciones móviles para tenerlas siempre a mano:</p>
+     <p> If you prefer, you can download mobile applications to have them always available:</p>
    
     
     
@@ -172,7 +172,7 @@
       </li>
       
       <li class="list-group-item">
-        <span class="badge pull-right">No disponible</span>
+        <span class="badge pull-right">Not available</span>
         iOS
       </li>
     </ul>
@@ -181,9 +181,9 @@
     
     
   <div class="col-md-6">
-   <center><h1>Hoja de cálculo</h1></center>
+   <center><h1>Spreadsheet</h1></center>
    <br>
-   <p>También puedes descargar una hoja de cálculo donde se presentan los cálculos y un gráfico comparativo en el que puede apreciarse la diferencia entre aplicar una u otra fórmula:</p>
+   <p>You can also download a spreadsheet that has calculations and a comparative graph that shows the difference between applying either formula.</p>
     
 <div class="row hidden-xs hidden-print" style="text-align:center">
 	<div class="col-sm-4 ">
@@ -191,7 +191,7 @@
       <img src="img/Excel.png" alt="Documento excel">
       <div class="caption">
         <h4>XLS</h4>
-        <p>Compatible con Microsoft Excel</p>
+        <p>Compatible with Microsoft Excel</p>
       </div>
     </div></a>
     </div>
@@ -200,7 +200,7 @@
     <img src="img/libreoffice.png" alt="Documento ODS">
       <div class="caption">
         <h4>ODS</h4>
-        <p>Compatible con OpenOffice</p>
+        <p>Compatible with OpenOffice</p>
       </div>
     </div></a>
     </div>
@@ -210,7 +210,7 @@
     <img src="img/drive.png" alt="Ver en Google Drive">
       <div class="caption">
         <h4>Google Drive</h4>
-        <p>Ver online</p>
+        <p>View online</p>
       </div>
     </div></a>
     </div>
@@ -229,7 +229,7 @@
       </li>
       
       <li class="list-group-item">
-        <a href="https://docs.google.com/spreadsheet/ccc?key=0AuyRIZwM9h4vdFpmR3pBamVPRjlFSWNKNXl4SFhYdEE&usp=sharing" target="_blank"><span class="badge pull-right">Descargar</span></a>
+        <a href="https://docs.google.com/spreadsheet/ccc?key=0AuyRIZwM9h4vdFpmR3pBamVPRjlFSWNKNXl4SFhYdEE&usp=sharing" target="_blank"><span class="badge pull-right">Download</span></a>
         Google Drive (Online)
       </li>
     </ul>
@@ -252,13 +252,13 @@
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-          ¿Cuál es la fórmula aproximada?
+          What is the approximate formula?
         </a>
       </h4>
     </div>
     <div id="collapseOne" class="panel-collapse collapse">
       <div class="panel-body">
-        Es la fórmula que actualmente utilizan la mayoría de los bancos para calcular la cuota de la hipoteca. Es una mezcla entre interés simple y compuesto que sesga el resultado a favor del banco.
+        Currently, it is the formula used by most banks to calculate the mortgage payment. It is a mix between simple and compound interest that skews the result in favor of the bank.
         <br><br>
         <center><img src="img/aproximada.png" alt="Fórmula aproximada"></center>
 
@@ -269,15 +269,15 @@
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-          ¿Qué desventajas tiene usar la fórmula aproximada?
+          What are the disadvantages of using the approximate formula?
         </a>
       </h4>
     </div>
     <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
-        Aparte de crear confusión, la fórmula aproximada hará que cuando los tipos de interés suban, estos crezcan todavía más para los hipotecados (EURIBOR + diferencial + error que crece más cuanto mayor sea el interés).
+        In addition to creating confusion, the approximated formula will make interest rates grow further for the mortgagees when interest rates rise. (EURIBOR + diferential + error that grows when the interest is higher).
 <br><br>
-<center>Diferencia entre la aproximación y la fórmula correcta: <br><img class="img-responsive" style="max-width:625px; width:100%;" src="img/grafica.png" alt="Gráfica interés"></center>
+<center>Difference between the approximation and the correct formula: <br><img class="img-responsive" style="max-width:625px; width:100%;" src="img/grafica.png" alt="Gráfica interés"></center>
 
       </div>
     </div>
@@ -286,13 +286,13 @@
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-          ¿Cuál es la fórmula exacta?
+          What is the exact formula?
         </a>
       </h4>
     </div>
     <div id="collapseThree" class="panel-collapse collapse">
       <div class="panel-body">
-       Es la fórmula realmente correcta, la que deberían de utilizar los bancos para calcular la cuota de la hipoteca. Es la fórmula original del interés compuesto.
+       It is really correct formula, which the banks should use to calculate the banks mortgage payment. It is the original formula of compound interest.
        
         <br><br>
         <center><img src="img/exacta.png" alt="Fórmula aproximada"></center>
@@ -303,13 +303,13 @@
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapseCuatro">
-          ¿Qué ventajas tiene usar la fórmula exacta?
+          What are the advantages of using the exact formula?
         </a>
       </h4>
     </div>
     <div id="collapseCuatro" class="panel-collapse collapse ">
       <div class="panel-body">
-        La ventaja es que se está utilizando la fórmula que directamente aplica el tipo anual efectivo (unidad de medida universal del tipo de interés). Esta fórmula es beneficiosa para el hipotecado ya que si los tipos de interés suben, los intereses no crecerán tanto.
+        The advantage is that you are using the formula that directly applies the effective annual interest rate (the universal interest rate unit). This formula is beneficial for the mortgagee because if interest rates rise, the interests will not grow much.
 
       </div>
     </div>
@@ -318,13 +318,13 @@
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapseCinco">
-          ¿Para utilizar las aplicaciones debo firmar la petición?
+          Should I sign the petition if I want to use the applications?
         </a>
       </h4>
     </div>
     <div id="collapseCinco" class="panel-collapse collapse in">
       <div class="panel-body">
-En absoluto, se pueden utilizar las aplicaciones sin necesidad de firmar la petición. No obstante, se recomienda firmarla para hacérsela llegar a los legisladores cuando se alcancen 1000 firmas.
+Not at all, you can use the applications without signing the petition. However, it is recommended to sign it to send the petition to legislators if 1000 signatures are reached.
       </div>
     </div>
   </div>
@@ -333,13 +333,13 @@ En absoluto, se pueden utilizar las aplicaciones sin necesidad de firmar la peti
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
-           ¿Cómo puedo calcular mi hipoteca con un dispositivo que no sea Android o Windows Phone?
+           How can I calculate my mortgage with a device other than Android or Windows Phone?
         </a>
       </h4>
     </div>
     <div id="collapse6" class="panel-collapse collapse in">
       <div class="panel-body">
-En estos casos se recomienda utilizar la aplicación web desde el navegador del dispositivo.
+In these cases, we recommend using the web application from the browser of the device.
       </div>
     </div>
   </div>  
@@ -348,14 +348,14 @@ En estos casos se recomienda utilizar la aplicación web desde el navegador del 
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">
-          ¿Por qué cuando introduzco los datos en la aplicación web no me aparece ningún resultado?
+          Why when I insert data in the web application does not show me any results?
 
         </a>
       </h4>
     </div>
     <div id="collapse7" class="panel-collapse collapse in">
       <div class="panel-body">
-Tiene que activar JavaScript en su navegador. Para ello,  compruebe en las opciones de su navegador que este lo permite y actívelo.
+You must enable JavaScript in your browser. To do this, check in your browser's options that it allows JavaScript and activate it.
       </div>
     </div>
   </div>  
@@ -364,14 +364,14 @@ Tiene que activar JavaScript en su navegador. Para ello,  compruebe en las opcio
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">
-          ¿Es necesario estar registrado en la web de avaaz.org para poder firmar la petición?
+          Is it necessary to be registered on the website of avaaz.org to sign the petition?
 
         </a>
       </h4>
     </div>
     <div id="collapse8" class="panel-collapse collapse in">
       <div class="panel-body">
-No, sólo es necesario ingresar un correo electrónico válido.
+No, you only need to enter a valid email address.
       </div>
     </div>
   </div>  
@@ -387,7 +387,7 @@ No, sólo es necesario ingresar un correo electrónico válido.
 <div class="container">
 
 
-<h3>Autores</h3>
+<h3>Authors</h3>
 <div class="col-lg-2 col-md-4 col-sm-6">
 <h4>Web</h4>
 <ul>
@@ -398,7 +398,7 @@ No, sólo es necesario ingresar un correo electrónico válido.
 </div>
 
 <div class="col-lg-2 col-md-4 col-sm-6">
-<h4>Calculadora web</h4>
+<h4>Web calculator</h4>
 <ul>
 <li>Pablo Candela</li>
 <li>José Luis Montes</li>
@@ -425,10 +425,10 @@ No, sólo es necesario ingresar un correo electrónico válido.
 </ul>
 </div>
 <div class="col-lg-2 col-md-4 col-sm-6">
-<h4>Promotor de la idea</h4>
+<h4>Idea’s promoter</h4>
 <ul><li>Antonio Araúzo Azofra</li></ul>
 
-<h4>Colaborador</h4>
+<h4>Collaborator</h4>
 <ul><li>Rubén Tinajero</li></ul>
 </div>
 

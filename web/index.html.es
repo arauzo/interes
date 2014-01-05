@@ -355,7 +355,7 @@ En estos casos se recomienda utilizar la aplicación web desde el navegador del 
     </div>
     <div id="collapse7" class="panel-collapse collapse in">
       <div class="panel-body">
-Tiene que activar JavaScript en su navegador. Para ello,  compruebe en las opciones de su navegador que este lo permite y actívelo.
+Tienes que activar JavaScript en tu navegador. Para ello, comprueba en las opciones de tu navegador que este lo permite y actívalo.
       </div>
     </div>
   </div>  
@@ -371,7 +371,7 @@ Tiene que activar JavaScript en su navegador. Para ello,  compruebe en las opcio
     </div>
     <div id="collapse8" class="panel-collapse collapse in">
       <div class="panel-body">
-No, sólo es necesario ingresar un correo electrónico válido.
+No, solo es necesario ingresar un correo electrónico válido.
       </div>
     </div>
   </div>  
