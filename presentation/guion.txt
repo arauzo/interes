@@ -66,7 +66,7 @@ Guión para "La cuota de mi hipoteca está mal calculada"
 
 Esta formula trabaja con el interés del periodo dado, normalmente años. Es necesario adaptarla para pagos mensuales.
 
-32) Se puede hacer en plan "cuenta de la vieja", aplicando el interés simple y dividir el interés mensual entre 12.
+32) Se puede hacer en plan "cuenta de la vieja", aplicando el interés simple y dividir el interés anual entre 12.
 
 33) Esto es lo que hace la fórmula apróximada.
 
