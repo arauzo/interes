@@ -381,7 +381,16 @@ No, solo es necesario ingresar un correo electrónico válido.
 </div>
   
     </div>
+<div class="container">
+<br>
+<div class="text-center">
+    <a class="btn btn-success botonpeticion" target="_blank" href="http://www.avaaz.org/es/petition/Bancos_y_legisladores_Usen_la_formula_correcta_en_las_hipotecas/"><strong>Ver petición</strong></a>
+</div>
+
+</div>
 </section>
+
+
 
 
 </div>
