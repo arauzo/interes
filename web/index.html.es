@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="google-site-verification" content="g1upmNLpknsGovGfZqj8Mw0qUk3Zns0A00-kvQ6qxe0" /> <!-- para Youtube-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="¿Tu banco calcula correctamente tu hipoteca? Descubre qué fallo se comete habitualmente">
+    <meta name="description" content="¿Tu banco calcula correctamente la cuota de tu hipoteca? Descubre qué fallo se comete habitualmente">
     <link rel="shortcut icon"  type="image/png" href="img/favicon.png">
 
     <title>Interés en hipotecas</title>
@@ -54,6 +54,7 @@
                 <li><a href="#menuinicio"><span class="glyphicon glyphicon-home"></span> Inicio</a></li>
                 <li><a href="#menucalculo"><span class="glyphicon glyphicon-usd"></span> Cálculo</a></li>
                 <li><a href="#menufaq"><span class="glyphicon glyphicon-question-sign"></span> Preguntas frecuentes</a></li>
+                <li><a href="index.html.en">English</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>

@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="google-site-verification" content="g1upmNLpknsGovGfZqj8Mw0qUk3Zns0A00-kvQ6qxe0" /> <!-- para Youtube-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Does your bank calculate your mortgage correctly? Discover the failure is usually committed">
+    <meta name="description" content="Does your bank calculate your mortgage payment correctly? Discover the failure is usually committed">
     <link rel="shortcut icon"  type="image/png" href="img/favicon.png">
 
     <title>Interest on mortgages</title>
@@ -54,6 +54,7 @@
                 <li><a href="#menuinicio"><span class="glyphicon glyphicon-home"></span> Home</a></li>
                 <li><a href="#menucalculo"><span class="glyphicon glyphicon-usd"></span> Calculation</a></li>
                 <li><a href="#menufaq"><span class="glyphicon glyphicon-question-sign"></span> FAQ</a></li>
+                <li><a href="index.html.es">Español</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -440,7 +441,7 @@ No, you only need to enter a valid email address.
 </ul>
 </div>
 <div class="col-lg-2 col-md-4 col-sm-6">
-<h4>A. Windows Phone</h4>
+<h4>App Windows Ph.</h4>
 <ul>
 <li>Francisco M. Castro</li>
 <li>Fernando Cobo</li>
