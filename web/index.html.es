@@ -317,6 +317,23 @@
       </div>
     </div>
   </div>
+
+ <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseCuatro">
+          ¿Cómo puedo saber qué formula usa mi banco en mi hipoteca?
+        </a>
+      </h4>
+    </div>
+    <div id="collapseCuatro" class="panel-collapse collapse ">
+      <div class="panel-body">
+        Puedes usar el calculador de la web o las aplicaciones para móvil. Tu cuota será igual a una de las dos calculadas, la exacta o la apróximada. Para ello debes indicar el capital que te queda por pagar, el interés que te aplican y el número de años y meses quedan (tendrás estos datos en los recibos de la hipoteca).
+
+      </div>
+    </div>
+  </div>
+
  <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
@@ -428,7 +445,7 @@ No, solo es necesario ingresar un correo electrónico válido.
 </ul>
 </div>
 <div class="col-lg-2 col-md-4 col-sm-6">
-<h4>A. Windows Phone</h4>
+<h4>App Windows P.</h4>
 <ul>
 <li>Francisco M. Castro</li>
 <li>Fernando Cobo</li>
@@ -437,7 +454,7 @@ No, solo es necesario ingresar un correo electrónico válido.
 </ul>
 </div>
 <div class="col-lg-2 col-md-4 col-sm-6">
-<h4>Promotor de la idea</h4>
+<h4>Coordinador</h4>
 <ul><li>Antonio Araúzo Azofra</li></ul>
 
 <h4>Colaborador</h4>

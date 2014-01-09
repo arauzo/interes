@@ -290,7 +290,7 @@
     </div>
     <div id="collapseThree" class="panel-collapse collapse">
       <div class="panel-body">
-       It is really correct formula, which the banks should use to calculate the banks mortgage payment. It is the original formula of compound interest.
+       It is actually the correct formula, which the banks should use to calculate the banks mortgage payment. It is the original formula of compound interest.
        
         <br><br>
         <div class="text-center"><img src="img/exacta.png" alt="Exact formula"></div>
@@ -312,6 +312,23 @@
       </div>
     </div>
   </div>
+  
+ <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseCuatro">
+          How can I know which formula is used in my mortgage?
+        </a>
+      </h4>
+    </div>
+    <div id="collapseCuatro" class="panel-collapse collapse ">
+      <div class="panel-body">
+        You can use the web calculator or the mobile apps. Your montly payment must be equal to one of the two values calculated.
+        You will need the remaining capital, the interest rate and the number of remaining payments (you may get all this data from your mortgage receipts).
+      </div>
+    </div>
+ </div>
+    
  <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
@@ -432,8 +449,8 @@ No, you only need to enter a valid email address.
 </ul>
 </div>
 <div class="col-lg-2 col-md-4 col-sm-6">
-<h4>Idea’s promoter</h4>
-<ul><li>Antonio Araúzo Azofra</li></ul>
+<h4>Coordinator</h4>
+<ul><li>Antonio Arauzo-Azofra</li></ul>
 
 <h4>Collaborator</h4>
 <ul><li>Rubén Tinajero</li></ul>
