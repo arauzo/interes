@@ -54,6 +54,9 @@
                 <li><a href="#menuinicio"><span class="glyphicon glyphicon-home"></span> Inicio</a></li>
                 <li><a href="#menucalculo"><span class="glyphicon glyphicon-usd"></span> Cálculo</a></li>
                 <li><a href="#menufaq"><span class="glyphicon glyphicon-question-sign"></span> Preguntas frecuentes</a></li>
+          </ul>
+		  
+		  <ul class="nav navbar-nav navbar-right">
                 <li><a href="index.html.en">English</a></li>
           </ul>
         </div><!--/.nav-collapse -->
@@ -322,14 +325,14 @@
  <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapseCuatro">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">
           ¿Cómo puedo saber qué formula usa mi banco en mi hipoteca?
         </a>
       </h4>
     </div>
-    <div id="collapseCuatro" class="panel-collapse collapse ">
+    <div id="collapse9" class="panel-collapse collapse ">
       <div class="panel-body">
-        Puedes usar el calculador de la web o las aplicaciones para móvil. Tu cuota será igual a una de las dos calculadas, la exacta o la apróximada. Para ello debes indicar el capital que te queda por pagar, el interés que te aplican y el número de años y meses quedan (tendrás estos datos en los recibos de la hipoteca).
+        Puedes usar el calculador de la web o las aplicaciones para móvil. Tu cuota será igual a una de las dos calculadas, la exacta o la aproximada. Para ello debes indicar el capital que te queda por pagar, el interés que te aplican y el número de años y meses que quedan (tendrás estos datos en los recibos de la hipoteca).
 
       </div>
     </div>
