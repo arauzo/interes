@@ -18,10 +18,12 @@ IMAGENES = \
 	IntSimple1.pdf IntSimple2.pdf IntSimple3.pdf IntSimple4.pdf IntSimple5.pdf IntSimple6.pdf \
 	IntSimple7.pdf IntSimple8.pdf IntSimple9.pdf IntSimple.pdf \
 	IntCompuesto1.pdf IntCompuesto.pdf IntCompuesto2.pdf \
-	by-sa.pdf
+	by-sa.pdf \
+	IntSimple-en1.pdf IntSimple-en2.pdf IntSimple-en3.pdf IntSimple-en4.pdf IntSimple-en5.pdf IntSimple-en6.pdf \
+	IntSimple-en7.pdf IntSimple-en8.pdf IntSimple-en9.pdf IntSimple-en.pdf \
+	IntCompuesto-en1.pdf IntCompuesto-en.pdf IntCompuesto-en2.pdf
 
-all :	$(BASENAME).pdf 
-#$(BASENAME)en.pdf
+all :	$(BASENAME).pdf $(BASENAME)-en.pdf
 
 # --- Generacion del articulo principal ---
 $(BASENAME).pdf :	$(BASENAME).tex $(FUENTES) $(IMAGENES)
@@ -30,7 +32,7 @@ $(BASENAME).pdf :	$(BASENAME).tex $(FUENTES) $(IMAGENES)
 	@echo -e "\n\n\n\n\n\n\n----- LATEX 2 (rerun to get cross-references right) ----"
 	pdflatex $<
 
-$(BASENAME)en.pdf :	$(BASENAME)en.tex $(FUENTES) $(IMAGENES)
+$(BASENAME)-en.pdf :	$(BASENAME)-en.tex $(FUENTES) $(IMAGENES)
 	@echo "----- LATEX 1 (get toc and refs) ----"
 	pdflatex $<
 	@echo -e "\n\n\n\n\n\n\n----- LATEX 2 (rerun to get cross-references right) ----"
