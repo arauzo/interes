@@ -1,0 +1,100 @@
+Screenplay for "My mortgage payment is miscalculated"
+© This work, written by Antonio Arauzo-Azofra, is licensed under a Attribution-ShareAlike 4.0 Creative Commons International
+-------------------------------------------------- -----
+
+1) Looking at the contract of my mortgage, I have seen that the monthly payment is miscalculated.
+
+2) Probably yours too. Whether mortgage or loan, one you already have or a future one,
+
+3) banks will probably apply this approximate formula.
+
+4) While the exact is this one.
+
+5) In school, we were taught two ways to apply the interest. The simple interest multiplies by time.
+
+6) With simple interest, Alicia is looking for a deposit for their savings of € 10,000
+
+7) She visits two banks.
+
+8) Bank A offered a deposit for 3 years at 10% per annum.
+
+9) Bank B, 1 year at 9.5% per annum. Which one will be better?
+
+10) Applying the formula, bank A will give € 13,000.
+
+11) B, will give € 10,950 after one year.
+
+12) If renewed, 11 990 in year 2
+
+13) and € 13,129 after three years.
+
+14) Alicia earned more with bank B.
+
+15) although it seemed a lower interest.
+
+16) Simple interest does not allow to compare investments if terms vary. For this reason, this form of interest is not used at all in the financial field.
+
+17) In contrast, compound interest takes into account the increase in the value of money whatever the term and the time payments.
+
+18) In the same situation,
+
+19) with compound interest, Alice will tell you that the deposit of bank A will have an equivalent annual interest rate of 9.14%. While B's rate is 9.5%
+
+20) Alicia's mind is clearer now. This is the method of calculating interest normally used.
+
+21) financial terms as the NPV,
+
+22) IRR, and any serious financial calculations are based on compound interest.
+
+23) Now, let's see what happens with loans.
+
+24) The idea is simple: one must pay interest on the money owed from the previous period. In this example, at period one, the payment includes 50€ corresponding to 5% of the € 1000 borrowed.
+
+25) In addition to interest, the fee also includes the return of part of the debt (repayment).
+
+26) The debt is decreasing and
+
+27) therefore also decrease the interest in each payment.
+
+28) This continues until, with the last payment, the entire debt is returned. The only thing missing is how to calculate the payment so that everything fit and, at the end, the debt become zero.
+
+29) This formula calculates annuity. You see on our website how to get to it.
+
+This formula works with year periods. It needs to be adapted to monthly payments.
+
+30) It can be done like counting on one's fingers by applying the simple interest, just dividing the annual interest rate by 12.
+
+31) This is what the approximate formula does.
+
+32) Or it can be done exactly, using compound interest to maintain the effective annual percentage rate.
+
+33) This is what the exact formula does.
+
+Mathematically, the approximation is an aberrant hybrid because, while the formula uses compound interest for annuity, the simple interest is used for the monthly payment.
+
+The approximate monthly payment is always greater. You can calculate it with spreadsheets and apps from our  website. It is as if the interest paid in February, March, April ... were paid in December. So we paid interest on money we do not owe.
+
+34) Why do some banks use the approximate formula?
+
+35 and 36) Because it's easier? In the past this could be a reason. However, today, even our mobile phone can make thousands of these calculations in a second.
+
+37 and 38) Because of tradition? Traditions are good for festivals. Using an approximation because of tradition? We have gone through 2000 problem, changed currencies and addressed much more complexity than this proposed change.
+
+39 and 40) Because of ignorance? No, bank's staff is well trained and they address much more complex  calculations than these.
+
+41 and 42) The only reason that comes to mind is because that earn more.
+
+43) Use of the exact formula would allow for mortgages with effective APR.
+
+44) Now, if you have a mortgage and a deposit, if both are at 5%, you may think that you neither lose nor win but you're really losing money.
+
+45) It is ineffective that banks just publish an effective APR at a given time, because the approximation error grows with increasing interest. For example, at 10% of interest we would be paying 10.5%.
+
+46) We request that banks are forced to use the exact formula.
+
+Please, contribute to this initiative by signing the petition and sharing this to spread the word. Thank you.
+
+
+
+
+
