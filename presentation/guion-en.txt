@@ -12,7 +12,7 @@ Screenplay for "My mortgage payment is miscalculated"
 
 5) In school, we were taught two ways to apply interest. Simple interest multiplies by time.
 
-6) With simple interest, Alicia is looking for a deposit for her savings of €10000
+6) With simple interest, Alice is looking for a deposit for her savings of €10000
 
 7) She visits two banks.
 
@@ -28,19 +28,19 @@ Screenplay for "My mortgage payment is miscalculated"
 
 13) and €13129 after three years.
 
-14) Alicia would earn more with bank B.
+14) Alice would earn more with bank B,
 
 15) although it seemed like a lower interest.
 
-16) Simple interest does not allow to compare investments if terms vary. For this reason, this form of interest is not used at all in the financial world.
+16) If terms vary, simple interest does not allow to compare investments. For this reason, this form of interest is not used at all in the financial world.
 
 17) In contrast, compound interest takes into account the increase in the value of money whatever the terms and the time when payments are done.
 
 18) In the same situation,
 
-19) with compound interest, Alice will be told that the deposit of bank A will have an effective annual percentage rate of 9.14%. While B's rate is 9.5%
+19) with compound interest, Alice will be told that the deposit of bank A will have an effective annual percentage rate of 9.14% and B's rate is 9.5%.
 
-20) Alicia's mind is clearer now. This is the common method of calculating interest.
+20) Alice's mind is clearer now. This is the common method of calculating interest.
 
 21) Financial terms as the NPV,
 
@@ -48,13 +48,13 @@ Screenplay for "My mortgage payment is miscalculated"
 
 23) Now, let's see what happens with loans.
 
-24) The idea is simple: one must pay interest on the money they owe from the previous period. In this example, at period one, the payment includes 50€ corresponding to 5% of the € 1000 borrowed.
+24) The idea is simple: one must pay interest on the money they owe from the previous period. In this example, at period one, the payment includes 50€ corresponding to 5% of the €1000 borrowed.
 
-25) In addition to interest, the fee also includes the return of part of the debt (repayment).
+25) In addition to interest, the payment also includes the return of part of the debt (repayment).
 
-26) The debt is decreasing and
+26) The debt is decreasing and,
 
-27) therefore interest in each payment decreases too.
+27) therefore, interest in each payment decreases too.
 
 28) This continues until, with the last payment, the entire debt is returned. The only thing missing is how to calculate the payment so that everything fits and, at the end, the debt become zero.
 
@@ -62,7 +62,7 @@ Screenplay for "My mortgage payment is miscalculated"
 
 This formula works with years. It needs to be adapted for monthly payments.
 
-30) It can be done like counting on one's fingers by applying the simple interest, just dividing the annual interest rate by 12.
+30) It can be done like counting on one's fingers, by applying the simple interest, just dividing the annual interest rate by 12.
 
 31) This is what the approximate formula does.
 
@@ -78,9 +78,9 @@ The approximate monthly payment is always greater. You can calculate it with spr
 
 35 and 36) Because it's easier? In the past this could be a reason. However, today, even our mobile phone can make thousands of these calculations in a second.
 
-37 and 38) Because of tradition? Traditions are good for festivals. Using an approximation because of tradition? We have gone through the year 2000 problem, changed currencies and addressed much more complexity than this proposed change.
+37 and 38) Because of tradition? Traditions are good for festivals but, using an approximation because of tradition? We have gone through the year 2000 problem, changed currencies and addressed much more complexity than this proposed change.
 
-39 and 40) Because of ignorance? No, bank's staff is well trained and it addresses much more complex  calculations than these ones.
+39 and 40) Because of ignorance? No, bank's staff is well trained and it addresses much more complex calculations than these ones.
 
 41 and 42) The only reason that comes to mind is because banks earn more.
 
