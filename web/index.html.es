@@ -453,6 +453,7 @@ No, solo es necesario ingresar un correo electrónico válido.
 <ul>
 <li>Francisco M. Castro</li>
 <li>Fernando Cobo</li>
+<li>Antonio Cubero</li>
 <li>Manuel Dorado</li>
 <li>José Manuel Herruzo</li>
 </ul>
